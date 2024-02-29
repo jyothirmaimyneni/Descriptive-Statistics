@@ -1,0 +1,1729 @@
+price,lotsize,age,landValue,livingArea,bedrooms,fireplaces,bathrooms,rooms,heating,fuel,sewer,waterfront,newConstruction,centralAir
+239000,364,42,50000,84,2,1,1,5,electric,electric,septic,No,No,No
+332000,3723,0,22300,182,3,0,2.5,6,hot water/steam,gas,septic,No,No,No
+195000,769,133,7300,181,4,1,1,8,hot water/steam,gas,public/commercial,No,No,No
+282000,1659,13,18700,181,3,1,1.5,5,hot air,gas,septic,No,No,No
+152000,445,0,15000,78,2,0,1,3,hot air,gas,public/commercial,No,Yes,Yes
+215000,2752,31,14000,107,4,1,1,8,hot air,gas,septic,No,No,No
+278000,1619,33,23300,256,4,1,1.5,8,hot water/steam,oil,septic,No,No,No
+310000,4897,23,14600,155,4,1,1.5,9,hot air,oil,septic,No,No,No
+159000,3359,36,22200,152,3,0,1.5,8,electric,electric,septic,No,No,No
+221000,7851,4,21200,132,3,0,1.5,6,hot air,gas,none,No,No,No
+613000,9268,123,12600,269,7,0,1,12,hot air,oil,septic,No,No,No
+215000,3723,1,22300,151,3,0,2,6,hot air,gas,septic,No,No,No
+152000,36302,13,4800,65,2,0,1,4,electric,electric,septic,No,No,No
+172000,445,153,3100,129,3,0,2,5,hot water/steam,gas,public/commercial,No,No,No
+229000,567,9,300,121,3,0,1.5,8,hot air,oil,septic,No,No,No
+159000,0,88,2500,87,3,0,1,4,hot water/steam,gas,public/commercial,No,No,No
+282000,526,9,300,121,3,0,1.5,7,hot air,oil,septic,No,No,No
+473000,8094,0,49800,262,4,1,2.5,12,hot air,gas,none,No,No,Yes
+104000,850,82,8500,86,2,0,1,6,hot water/steam,oil,septic,No,No,No
+155000,3561,17,19400,102,3,0,1,6,hot air,oil,septic,No,No,No
+200000,4047,12,8600,98,3,0,1,7,electric,electric,septic,No,No,No
+187000,1740,21,5600,149,3,0,1.5,4,electric,electric,public/commercial,No,No,No
+270000,1295,1,6200,147,3,0,2.5,7,hot air,gas,septic,No,Yes,Yes
+272000,121,24,5100,193,3,0,2,6,hot air,oil,septic,No,No,No
+160000,1457,16,5200,149,3,0,1.5,4,electric,electric,public/commercial,No,No,No
+463000,16188,28,5500,207,4,0,3,10,hot air,oil,septic,No,No,No
+244000,7406,126,6000,154,3,0,1,6,hot water/steam,oil,septic,No,No,No
+263000,12141,26,4500,109,4,0,1.5,5,hot air,oil,septic,No,No,No
+877000,1740,53,2700,229,4,1,2,10,hot air,oil,public/commercial,Yes,No,No
+253000,1781,56,19400,144,3,1,1.5,7,hot air,oil,septic,No,No,Yes
+234000,5018,51,24800,113,2,2,1,4,hot water/steam,oil,septic,No,No,No
+343000,1862,3,15200,173,3,1,2.5,7,hot air,gas,septic,No,No,No
+424000,3521,9,41100,206,3,1,2,8,hot air,gas,public/commercial,No,No,No
+421000,7285,201,25500,174,3,0,2.5,5,hot air,oil,septic,No,No,No
+329000,1862,1,15200,188,4,1,2.5,6,hot air,gas,septic,No,No,No
+310000,3683,19,20200,155,4,1,3,8,hot air,gas,septic,No,No,Yes
+387000,1862,1,15200,192,4,1,2.5,7,hot air,gas,none,No,No,No
+310000,2388,0,17300,175,4,1,2.5,9,hot air,gas,septic,No,No,No
+550000,29300,43,36600,188,4,2,3,6,hot water/steam,gas,septic,No,No,No
+457000,769,0,20700,223,4,1,2.5,7,hot air,gas,none,No,No,Yes
+286000,1862,45,20200,129,3,1,1.5,6,hot air,gas,septic,No,No,No
+359000,1659,32,27100,182,4,0,2.5,8,hot air,gas,septic,No,No,Yes
+272000,3157,54,24500,145,3,1,1.5,5,hot air,oil,septic,No,No,Yes
+436000,3602,9,41600,184,3,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+523000,5423,0,44400,231,4,1,2.5,10,hot air,gas,septic,No,No,No
+459000,4047,0,17100,252,4,1,2.5,9,hot air,gas,none,No,No,No
+223000,4047,98,15500,74,2,0,1,3,hot air,oil,septic,No,No,No
+249000,1093,54,8900,140,3,0,2.5,7,hot water/steam,gas,septic,No,No,No
+544000,2873,73,61000,171,4,0,2,8,hot air,oil,septic,Yes,No,No
+193000,3642,48,19000,97,2,1,2,3,hot air,gas,septic,No,No,No
+244000,971,10,8000,166,3,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+112000,243,16,1600,138,2,1,2.5,5,hot air,gas,public/commercial,No,No,No
+257000,2226,20,13800,133,3,1,2,6,hot air,gas,septic,No,No,No
+225000,1376,32,11100,131,3,0,2,5,hot air,gas,septic,No,No,No
+155000,769,15,3400,138,3,1,1.5,5,hot water/steam,gas,public/commercial,No,No,Yes
+244000,931,135,8100,125,3,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+159000,283,14,1800,138,2,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+159000,364,15,2400,138,3,1,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+228000,1012,10,8400,148,3,0,2.5,6,hot air,gas,public/commercial,No,No,No
+320000,1902,15,27200,164,3,1,2,5,electric,electric,septic,No,No,No
+287000,1457,10,12100,125,2,1,2,3,hot air,gas,public/commercial,No,No,Yes
+163000,283,14,1800,138,3,1,1.5,8,hot air,gas,public/commercial,No,No,No
+146000,445,225,3900,138,3,0,1,7,hot air,gas,public/commercial,No,No,No
+253000,931,25,8300,147,4,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+312000,12789,15,24100,94,2,0,1,7,electric,electric,septic,No,No,No
+369000,324,0,32000,217,4,0,2.5,9,hot air,gas,public/commercial,No,Yes,No
+251000,2307,30,7500,99,3,1,1,5,hot air,oil,septic,No,No,No
+417000,2024,12,15300,226,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+333000,4047,16,26600,122,3,1,2,7,electric,electric,septic,No,No,No
+385000,2024,0,32000,155,3,0,2,7,hot air,gas,public/commercial,No,Yes,Yes
+341000,2226,0,4400,186,4,0,2.5,7,hot air,gas,public/commercial,No,Yes,No
+165000,405,14,2600,138,3,1,1.5,6,hot air,gas,public/commercial,No,No,No
+480000,2024,0,32000,276,4,1,4,10,hot air,gas,public/commercial,No,Yes,Yes
+293000,1255,10,10400,143,3,0,2.5,5,hot air,gas,public/commercial,No,No,Yes
+163000,1133,18,6300,142,4,0,2,7,hot air,oil,septic,No,No,No
+389000,243,0,32000,204,4,0,2.5,8,hot air,gas,public/commercial,No,Yes,No
+206000,243,14,1600,138,3,1,1.5,6,hot air,gas,public/commercial,No,No,No
+202000,1862,53,9200,135,3,0,2,7,hot water/steam,oil,septic,No,No,Yes
+400000,405,0,32000,219,4,0,2.5,10,hot air,gas,public/commercial,No,Yes,No
+263000,8580,32,19000,134,3,1,1,8,hot air,oil,septic,No,No,No
+204000,243,14,1600,138,2,1,2.5,5,hot air,electric,public/commercial,No,No,No
+251000,850,125,7300,175,3,0,2.5,6,hot air,gas,public/commercial,No,No,No
+185000,243,14,1600,138,3,0,1.5,6,hot air,gas,public/commercial,No,No,No
+310000,1052,11,8700,167,3,0,2.5,8,hot air,gas,public/commercial,No,No,No
+326000,1174,2,25000,129,3,0,2.5,5,hot air,gas,septic,No,No,No
+240000,5221,14,10300,156,2,1,2,3,hot air,electric,septic,No,No,Yes
+339000,4047,0,4000,71,4,0,2,9,hot air,gas,septic,No,No,No
+206000,3561,16,10000,145,3,1,1.5,8,electric,electric,septic,No,No,Yes
+178000,2104,91,5000,93,3,0,1,6,hot air,oil,septic,No,No,No
+210000,283,15,18900,156,4,1,1.5,9,electric,electric,septic,No,No,No
+272000,1295,11,19400,154,3,0,1.5,6,electric,electric,none,No,No,No
+344000,3723,11,20600,214,3,1,1.5,7,electric,electric,septic,No,No,No
+191000,1862,25,18700,159,3,1,1,6,hot air,gas,septic,No,No,No
+228000,1862,26,18700,126,3,0,1.5,5,hot air,gas,septic,No,No,No
+266000,445,15,18900,156,3,1,2.5,6,hot air,gas,septic,No,No,No
+108000,1619,103,10500,122,3,0,1.5,7,hot water/steam,gas,septic,No,No,No
+180000,3521,30,8700,98,3,1,2,8,hot air,gas,septic,No,No,No
+260000,2388,13,19900,85,3,0,1,7,hot air,gas,septic,No,No,No
+203000,3764,18,4500,115,2,0,2,3,electric,electric,septic,No,No,No
+134000,607,68,2000,128,3,1,1,5,hot air,gas,public/commercial,No,No,No
+197000,2388,10,3100,87,3,0,1,6,hot air,gas,septic,No,No,Yes
+155000,1336,49,3400,67,3,0,1,4,hot air,gas,septic,No,No,No
+193000,1295,30,6500,151,2,1,1.5,4,hot water/steam,oil,septic,No,No,No
+206000,1862,41,5000,106,3,0,1.5,6,hot air,gas,septic,No,No,No
+265000,1943,2,3000,170,3,0,2.5,9,hot air,gas,septic,No,No,No
+417000,9591,8,3300,166,3,1,2,6,hot water/steam,oil,septic,No,No,No
+249000,3359,16,3700,172,3,1,2.5,8,hot air,gas,septic,No,No,Yes
+403000,4047,0,3500,204,4,0,2.5,8,hot water/steam,gas,septic,No,Yes,No
+41000,850,75,900,86,2,0,1,6,hot air,oil,septic,No,No,No
+200000,1093,36,3800,119,3,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+201000,2914,43,4600,115,3,1,1,5,electric,electric,septic,No,No,No
+172000,1457,45,3600,131,3,0,1.5,6,hot water/steam,gas,septic,No,No,No
+217000,2104,6,2500,108,3,0,2,5,hot air,gas,septic,No,No,No
+114000,769,123,2100,111,3,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+417000,1538,10,6600,205,4,1,2.5,8,hot air,gas,septic,No,No,Yes
+353000,3319,0,5000,175,3,1,2.5,9,hot air,gas,septic,No,Yes,Yes
+288000,2792,6,3400,127,3,0,1.5,8,hot air,oil,septic,No,No,No
+460000,2064,16,6000,177,3,1,2.5,5,hot air,gas,septic,No,No,Yes
+356000,2914,11,3200,144,3,0,2,8,hot air,gas,septic,No,No,No
+247000,2509,12,5400,83,3,0,2,5,hot air,gas,septic,No,No,No
+131000,4047,45,8000,94,3,0,1,7,hot air,gas,septic,No,No,No
+77000,2104,75,3900,85,2,0,1,4,hot air,gas,septic,No,No,No
+452000,3319,12,3700,227,3,0,2.5,6,hot air,gas,septic,No,No,No
+159000,1174,83,3900,84,4,0,1,7,hot air,gas,public/commercial,No,No,No
+287000,2104,0,4400,195,3,0,2,7,hot air,gas,septic,No,Yes,Yes
+318000,2590,9,3000,197,4,1,2.5,7,hot water/steam,gas,septic,No,No,No
+272000,2104,12,4500,125,2,1,2,7,hot air,gas,septic,No,No,No
+291000,4047,3,5200,103,3,0,1,8,hot air,gas,septic,No,No,No
+251000,2792,33,6500,134,3,2,2,6,hot water/steam,gas,septic,No,No,No
+150000,526,0,15000,78,2,0,1,3,hot air,gas,public/commercial,No,Yes,No
+182000,890,10,7300,109,2,0,1,6,hot air,gas,public/commercial,No,No,No
+320000,1862,15,23400,155,4,0,1,5,hot air,oil,septic,No,No,No
+138000,4047,153,27300,281,4,0,1,12,hot air,oil,septic,No,No,No
+431000,4047,0,15900,242,4,1,2.5,9,hot air,gas,none,No,No,No
+166000,526,0,15000,78,2,0,1.5,7,hot air,gas,public/commercial,No,Yes,No
+215000,4168,63,41500,158,5,0,1,10,hot water/steam,oil,septic,No,No,No
+265000,4735,33,41800,135,3,1,1.5,6,hot air,oil,septic,No,No,No
+225000,1376,44,19000,114,3,0,1,4,hot air,oil,septic,No,No,No
+244000,1538,48,21300,131,3,1,1,5,hot air,gas,septic,No,No,No
+287000,7932,29,39700,150,3,1,1.5,5,hot air,oil,septic,No,No,No
+244000,12141,178,44500,281,4,0,2.5,12,hot water/steam,oil,septic,No,No,No
+259000,1336,32,22500,177,3,1,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+485000,1862,1,36600,237,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,Yes
+150000,1174,16,22100,97,2,0,1,7,electric,electric,public/commercial,No,No,No
+330000,1416,1,37000,169,3,1,2.5,6,hot air,gas,public/commercial,No,Yes,No
+298000,1133,21,28400,205,3,1,2,10,electric,electric,public/commercial,No,No,Yes
+190000,2104,53,20300,222,3,0,1,6,hot air,oil,septic,No,No,No
+206000,445,16,20700,127,2,1,1.5,3,electric,electric,public/commercial,No,No,Yes
+206000,567,16,21000,138,2,1,2,5,electric,electric,public/commercial,No,No,Yes
+244000,567,15,19600,125,2,1,1.5,5,electric,electric,public/commercial,No,No,Yes
+366000,1902,7,25500,176,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+251000,567,16,19600,125,2,1,1.5,6,electric,electric,public/commercial,No,No,Yes
+380000,2064,15,39600,187,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+215000,850,15,28800,110,2,1,1.5,3,hot air,gas,public/commercial,No,No,Yes
+380000,567,1,45200,184,3,1,2.5,5,hot air,gas,public/commercial,No,Yes,Yes
+514000,2226,14,72000,210,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+251000,283,12,24500,149,2,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+159000,1983,83,11900,111,3,0,1,6,hot air,gas,septic,No,No,No
+253000,283,13,24500,149,2,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+316000,1457,1,37100,162,3,0,2.5,5,hot air,gas,public/commercial,No,Yes,No
+246000,2024,37,19800,102,3,0,1,5,hot water/steam,oil,septic,No,No,No
+505000,1943,10,37800,224,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+318000,1174,14,31100,180,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+720000,2752,9,57200,286,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+727000,16512,13,75500,422,6,2,2.5,12,hot air,oil,septic,No,No,Yes
+262000,405,14,26000,156,3,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+662000,2509,7,57800,270,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+240000,283,16,20300,129,2,1,1.5,5,electric,electric,public/commercial,No,No,Yes
+206000,648,15,22400,98,2,1,1.5,7,hot air,gas,public/commercial,No,No,No
+391000,1457,1,29200,218,4,1,2.5,8,hot air,gas,public/commercial,No,Yes,Yes
+422000,40,0,37200,205,4,1,2.5,10,hot air,gas,public/commercial,No,Yes,Yes
+300000,1376,1,36200,141,3,1,2,5,hot air,gas,public/commercial,No,Yes,Yes
+643000,3035,12,82500,264,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+253000,1174,15,35200,117,2,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+524000,1902,6,20000,218,4,1,3.5,10,hot air,gas,public/commercial,No,No,Yes
+417000,1295,0,53900,198,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,Yes
+262000,486,15,16800,125,2,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+688000,4047,0,24300,276,4,1,2.5,10,hot air,gas,septic,No,Yes,Yes
+460000,1862,13,36600,197,4,1,3.5,8,hot air,gas,public/commercial,No,No,Yes
+215000,728,16,21400,106,2,1,1,7,electric,electric,public/commercial,No,No,Yes
+246000,2226,33,14900,92,3,1,1,7,hot air,oil,septic,No,No,No
+423000,1862,9,45800,137,3,0,2,4,hot air,gas,public/commercial,No,No,No
+297000,607,10,28500,116,3,0,1.5,7,hot air,gas,public/commercial,No,No,No
+426000,3764,48,23500,178,5,1,2,10,hot water/steam,gas,septic,No,No,No
+207000,1862,23,19700,134,3,0,1.5,5,hot air,oil,septic,No,No,No
+320000,1052,16,30100,148,3,1,2,6,hot air,gas,public/commercial,No,No,Yes
+491000,2550,0,24400,248,4,1,2.5,11,hot air,gas,public/commercial,No,Yes,Yes
+265000,2024,35,28000,185,3,0,1.5,8,hot water/steam,gas,septic,No,No,No
+378000,121,10,35800,150,3,0,2,6,hot air,gas,public/commercial,No,No,Yes
+495000,688,9,40500,178,3,1,2.5,5,hot air,gas,public/commercial,No,No,No
+306000,2590,37,16400,241,3,1,1.5,9,hot water/steam,oil,septic,No,No,No
+378000,1902,6,25500,172,3,1,2.5,9,hot air,gas,public/commercial,No,No,No
+310000,3723,53,29000,126,4,0,1,9,hot air,oil,septic,No,No,Yes
+322000,1659,35,26200,155,3,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+238000,648,15,22400,102,2,1,1.5,3,hot air,gas,public/commercial,No,No,Yes
+207000,40,17,9900,113,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+272000,1174,93,9200,97,3,0,1,6,electric,electric,septic,No,No,No
+215000,1457,103,32200,106,3,0,1,8,hot air,oil,septic,No,No,No
+225000,1133,16,22000,106,2,1,2,6,hot air,gas,public/commercial,No,No,Yes
+272000,607,14,21000,115,2,1,1.5,5,hot air,gas,public/commercial,No,No,No
+687000,2388,0,153800,281,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,Yes
+241000,1457,19,27000,140,3,1,2,6,hot air,gas,public/commercial,No,No,No
+161000,648,19,15700,85,2,1,1.5,5,electric,electric,public/commercial,No,No,No
+185000,1376,18,27000,140,3,0,1.5,4,electric,electric,public/commercial,No,No,No
+268000,1336,17,27000,145,3,1,1.5,6,hot air,gas,public/commercial,No,No,No
+333000,2266,30,26400,244,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+277000,1943,30,19600,87,3,1,1,7,hot water/steam,gas,public/commercial,No,No,No
+172000,648,19,15700,85,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+202000,688,16,15100,139,3,0,2.5,8,electric,electric,public/commercial,No,No,No
+314000,1862,30,26300,149,4,1,2.5,5,hot water/steam,gas,public/commercial,No,No,No
+329000,3278,25,25000,214,5,1,2.5,9,electric,electric,septic,No,No,No
+148000,607,19,15700,85,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+211000,607,17,15100,129,2,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+324000,1295,17,27000,145,4,0,1.5,8,electric,electric,public/commercial,No,No,No
+192000,648,20,15700,82,2,0,2,3,hot water/steam,gas,public/commercial,No,No,No
+164000,607,18,15700,85,2,0,2,4,electric,electric,public/commercial,No,No,No
+183000,607,17,15700,85,2,0,1.5,3,electric,gas,public/commercial,No,No,No
+243000,1943,73,20500,129,3,0,2,5,hot air,oil,septic,No,No,No
+272000,3116,7,30000,124,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+301000,1700,10,26200,133,3,1,2,5,hot air,gas,septic,No,No,Yes
+215000,688,16,15100,139,3,1,2.5,6,electric,electric,public/commercial,No,No,No
+325000,1295,16,27000,145,4,1,1.5,9,hot air,gas,public/commercial,No,No,Yes
+564000,364,11,32000,87,1,0,1,3,electric,electric,public/commercial,Yes,No,No
+222000,648,16,15100,139,3,1,2.5,8,electric,electric,public/commercial,No,No,No
+255000,648,18,15100,172,3,0,2.5,7,electric,electric,public/commercial,No,No,No
+188000,607,15,15100,115,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+179000,688,19,15800,85,2,0,1.5,6,electric,electric,public/commercial,No,No,No
+194000,688,19,15800,85,2,0,1.5,3,hot air,gas,public/commercial,No,No,No
+188000,648,19,15700,85,2,0,1.5,6,hot water/steam,gas,public/commercial,No,No,No
+196000,648,19,15100,110,3,0,1.5,8,hot water/steam,gas,public/commercial,No,No,No
+316000,1376,18,27000,152,3,1,2,6,electric,electric,public/commercial,No,No,No
+304000,1255,16,27000,140,3,1,2,6,electric,electric,public/commercial,No,No,No
+187000,1619,50,18000,62,2,0,1,5,electric,electric,public/commercial,No,No,No
+943000,1376,18,79700,125,3,1,2,6,hot air,oil,public/commercial,Yes,No,No
+215000,648,18,15100,110,3,0,2,5,electric,electric,public/commercial,No,No,No
+192000,607,16,15700,85,2,0,1.5,4,hot air,gas,public/commercial,No,No,No
+209000,607,18,15700,85,2,1,1.5,5,electric,electric,public/commercial,No,No,No
+113000,648,19,15700,92,2,0,2,4,hot air,gas,public/commercial,No,No,No
+212000,648,19,15100,110,3,0,2,6,hot air,gas,public/commercial,No,No,No
+208000,607,16,15100,129,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+178000,607,18,15700,85,2,0,1.5,3,hot water/steam,gas,public/commercial,No,No,No
+312000,1497,18,27000,144,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+345000,1255,17,27000,145,4,0,1.5,9,electric,electric,public/commercial,No,No,No
+253000,4047,24,21000,94,2,0,1,3,hot air,gas,septic,No,No,Yes
+224000,607,17,15200,129,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+191000,648,19,15700,84,2,0,1,6,hot air,gas,public/commercial,No,No,No
+192000,971,138,1400,209,4,0,1.5,9,hot water/steam,oil,public/commercial,No,No,No
+330000,8337,16,5900,169,3,1,2.5,5,hot air,gas,septic,No,No,No
+396000,1700,0,13000,238,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,Yes
+232000,3723,16,5500,77,3,0,1.5,5,electric,electric,septic,No,No,No
+385000,1619,0,15000,229,4,1,2.5,9,hot air,gas,public/commercial,No,No,No
+253000,1457,22,10500,123,3,0,1,4,electric,electric,public/commercial,No,No,No
+663000,23634,12,20000,271,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+193000,648,19,15100,96,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+207000,607,16,15700,85,2,1,1.5,4,electric,electric,public/commercial,No,No,No
+244000,3966,35,19600,123,2,0,1,3,electric,electric,septic,No,No,No
+244000,1336,17,27000,140,3,1,1.5,8,hot air,gas,public/commercial,No,No,No
+192000,648,16,15700,85,2,1,1.5,7,electric,electric,public/commercial,No,No,No
+432000,364,12,31200,190,4,1,2.5,7,hot air,gas,septic,No,No,Yes
+187000,648,17,15700,85,2,1,1.5,5,electric,electric,public/commercial,No,No,No
+633000,12141,10,53600,165,2,0,2,6,hot air,oil,public/commercial,No,No,Yes
+251000,2347,25,25000,121,3,0,2,8,electric,electric,public/commercial,No,No,No
+387000,1700,10,26200,171,4,1,2.5,8,hot air,gas,septic,No,No,Yes
+180000,688,18,15800,85,2,0,2,3,electric,electric,public/commercial,No,No,No
+136000,648,19,15700,85,2,0,1.5,6,electric,electric,public/commercial,No,No,No
+273000,1255,16,27000,142,2,1,2,7,electric,electric,public/commercial,No,No,No
+305000,4007,17,5700,135,3,0,1.5,7,electric,electric,septic,No,No,No
+204000,1052,26,4600,158,3,1,1.5,4,hot water/steam,oil,public/commercial,No,No,No
+291000,1821,27,7000,156,4,0,1,9,electric,electric,public/commercial,No,No,No
+150000,1983,0,13000,223,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+259000,1416,21,11000,109,3,0,1,7,electric,electric,public/commercial,No,No,No
+227000,1619,24,9800,125,3,1,1.5,7,electric,electric,public/commercial,No,No,No
+253000,1943,23,10400,125,3,0,1.5,8,electric,electric,public/commercial,No,No,No
+253000,1416,9,13000,159,3,0,2.5,8,hot water/steam,gas,septic,No,No,No
+378000,1012,20,29000,185,4,1,3,9,hot air,gas,public/commercial,No,No,No
+140000,486,19,18200,86,2,0,1,7,hot air,gas,public/commercial,No,No,Yes
+251000,364,24,17600,120,2,1,1.5,3,hot air,gas,public/commercial,No,No,Yes
+349000,1862,36,27400,234,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+275000,2873,58,22700,128,3,1,1.5,7,hot water/steam,oil,public/commercial,No,No,No
+173000,243,19,16400,115,2,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+358000,2469,41,32300,215,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,Yes
+359000,1295,0,35000,173,3,1,2.5,9,hot air,gas,public/commercial,No,No,No
+277000,1497,26,37500,157,3,1,1.5,8,hot air,gas,public/commercial,No,No,Yes
+290000,1174,26,31400,157,3,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+339000,3845,16,40900,147,3,1,1.5,4,electric,electric,public/commercial,No,No,Yes
+446000,2711,8,72400,213,4,1,3,9,hot air,gas,public/commercial,No,No,Yes
+345000,1619,32,30000,229,5,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+489000,1174,5,29000,237,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+392000,1416,6,36500,215,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+407000,1497,18,43000,242,4,1,2.5,8,hot air,gas,septic,No,No,Yes
+456000,2145,15,65800,249,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+215000,243,19,16400,138,3,0,1.5,4,electric,electric,public/commercial,No,No,Yes
+182000,607,16,18500,106,2,0,1,7,electric,electric,public/commercial,No,No,Yes
+246000,1093,24,18900,147,3,0,2.5,4,hot water/steam,gas,public/commercial,No,No,No
+392000,1740,10,52200,194,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+380000,243,26,35900,161,3,1,2,8,hot air,gas,public/commercial,No,No,Yes
+485000,4047,2,49900,172,2,2,2,4,hot air,gas,septic,No,No,Yes
+352000,1862,30,27400,215,5,1,2.5,12,hot air,gas,public/commercial,No,No,No
+509000,121,0,56800,272,4,1,2.5,12,hot air,gas,public/commercial,No,No,No
+352000,3561,33,35900,240,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+287000,2226,36,30500,155,3,1,2,8,hot water/steam,gas,public/commercial,No,No,No
+359000,4047,24,46000,115,2,0,1.5,3,electric,electric,septic,No,No,No
+344000,1740,29,31400,248,5,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+291000,1821,35,32300,146,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+248000,405,12,18000,146,2,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+196000,364,16,17600,123,2,1,1.5,4,hot air,gas,public/commercial,No,No,Yes
+150000,364,18,17600,138,3,0,1.5,8,hot water/steam,gas,public/commercial,No,No,No
+338000,2388,0,38400,201,4,1,2.5,11,hot air,gas,public/commercial,No,No,No
+243000,648,10,18600,126,2,1,1.5,3,hot air,gas,public/commercial,No,No,Yes
+282000,2064,33,34600,153,3,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+475000,1862,25,60500,273,3,1,3.5,12,hot air,gas,public/commercial,No,No,Yes
+443000,1862,1,36400,224,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+189000,1700,36,30900,162,3,0,1.5,9,hot air,gas,public/commercial,No,No,No
+1218000,1821,14,119500,486,4,4,4,12,hot air,gas,public/commercial,No,No,Yes
+359000,2226,34,30500,240,4,1,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+308000,1781,34,31800,147,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+154000,243,19,16400,138,3,0,1.5,5,electric,electric,public/commercial,No,No,No
+397000,2024,15,37000,178,4,1,2.5,7,hot air,gas,public/commercial,No,No,No
+363000,1214,30,24500,180,3,1,1.5,9,hot air,gas,public/commercial,No,No,Yes
+397000,1336,3,11600,196,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+212000,567,19,18400,138,3,0,1.5,5,hot air,gas,public/commercial,No,No,No
+345000,2792,34,34700,240,5,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+514000,1538,18,60800,227,4,2,2.5,9,hot air,gas,public/commercial,No,No,Yes
+465000,2995,14,73800,203,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+505000,1538,18,82800,193,4,1,2.5,8,hot air,electric,septic,No,No,Yes
+287000,1538,37,29100,156,3,1,1.5,5,hot air,gas,public/commercial,No,No,No
+215000,1174,19,20300,114,4,0,1.5,9,electric,electric,public/commercial,No,No,No
+227000,1133,22,19500,128,2,1,1.5,7,electric,electric,public/commercial,No,No,Yes
+407000,2185,16,30200,153,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+330000,1052,31,21900,160,3,1,1.5,9,hot air,gas,public/commercial,No,No,Yes
+375000,2388,33,31700,240,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+465000,1497,4,37500,212,4,1,2.5,7,hot air,gas,public/commercial,No,No,No
+355000,1619,18,25000,194,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+397000,2024,15,37000,178,4,1,2.5,9,hot air,gas,public/commercial,No,No,No
+370000,2185,29,30200,292,5,1,3.5,10,hot water/steam,gas,public/commercial,No,No,No
+113000,890,73,6900,96,3,0,1,4,hot air,gas,septic,No,No,No
+359000,1416,36,39800,176,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+399000,2104,38,29600,215,5,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+163000,1255,17,19600,86,2,1,1,6,electric,electric,public/commercial,No,No,No
+282000,1538,25,38000,193,3,1,2.5,9,electric,gas,public/commercial,No,No,Yes
+222000,324,22,17200,115,3,1,1.5,4,electric,electric,public/commercial,No,No,Yes
+197000,405,29,18000,120,3,0,1.5,5,hot air,gas,public/commercial,No,No,Yes
+366000,1781,18,33200,172,3,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+272000,1052,49,41900,99,3,0,1,8,hot air,gas,septic,No,No,Yes
+185000,283,18,16800,138,3,1,1.5,4,hot air,gas,public/commercial,No,No,Yes
+456000,1943,23,48500,229,5,2,3.5,8,hot air,gas,public/commercial,No,No,Yes
+330000,1659,17,25400,207,3,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+280000,1700,61,14700,117,3,0,1,8,hot water/steam,gas,septic,No,No,No
+310000,1821,30,30000,145,4,1,2.5,5,hot air,gas,public/commercial,No,No,No
+405000,2428,25,71000,184,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+554000,3845,9,78000,221,3,1,2.5,6,hot air,gas,septic,No,No,No
+333000,2266,27,30800,175,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+485000,5059,133,43500,203,4,1,1.5,11,hot water/steam,gas,septic,No,No,No
+446000,2833,15,69400,231,4,1,2.5,7,electric,electric,public/commercial,No,No,Yes
+245000,2711,56,21100,107,1,0,2,3,hot air,gas,septic,No,No,No
+352000,2671,15,32100,188,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+417000,2509,37,32600,234,5,1,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+175000,324,18,17200,138,3,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+197000,324,17,17200,138,3,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+544000,2064,7,39100,220,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+338000,1133,31,23200,178,3,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+327000,4047,12,32000,182,3,2,2,9,hot air,oil,septic,No,No,No
+792000,2347,9,86400,312,4,1,3.5,12,hot air,gas,public/commercial,No,No,Yes
+455000,1740,26,39000,194,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+272000,2226,35,33000,183,5,1,2,11,hot air,gas,public/commercial,No,No,Yes
+307000,1983,33,34100,196,4,1,1.5,9,hot air,gas,public/commercial,No,No,Yes
+289000,1578,43,29600,135,4,0,2.5,9,hot air,gas,septic,No,No,No
+229000,243,18,16400,138,3,0,1.5,7,hot air,gas,public/commercial,No,No,No
+320000,1862,29,27400,174,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+476000,2024,0,17500,195,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+320000,2428,33,32000,174,3,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+436000,1659,17,44300,222,4,1,2.5,11,electric,electric,public/commercial,No,No,Yes
+611000,2145,18,65800,262,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+316000,850,11,19100,99,2,1,2,4,hot air,gas,public/commercial,No,No,No
+210000,243,20,16400,128,2,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+189000,364,19,17600,138,3,0,1.5,5,hot air,electric,public/commercial,No,No,No
+200000,526,25,18300,117,2,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+436000,2914,15,40300,194,3,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+436000,4047,9,43900,241,4,1,2.5,12,hot air,oil,septic,No,No,No
+234000,728,18,18800,138,3,0,1.5,4,electric,electric,public/commercial,No,No,No
+436000,2995,10,35700,163,3,1,2.5,7,hot air,gas,public/commercial,No,No,No
+353000,1943,32,28200,247,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+534000,2347,20,69500,225,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+633000,40,21,79100,260,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+253000,4047,78,21200,107,2,0,1,6,hot water/steam,oil,septic,No,No,No
+351000,1659,29,25400,218,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+278000,2064,33,34600,179,4,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+360000,2226,35,34800,205,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+462000,1862,16,60500,205,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+446000,2428,35,32000,252,5,2,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+238000,769,18,18900,106,3,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+366000,5747,32,48300,235,3,1,2,7,hot air,gas,septic,No,No,Yes
+401000,2792,20,35500,167,4,0,2,9,electric,electric,septic,No,No,No
+305000,2064,31,34600,150,3,1,1.5,4,hot air,gas,public/commercial,No,No,No
+456000,1174,13,31400,240,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+679000,243,10,79600,247,4,0,2.5,10,hot air,gas,septic,No,No,Yes
+787000,2428,13,88000,362,5,2,4.5,12,hot water/steam,gas,public/commercial,No,No,Yes
+384000,2145,16,37500,147,3,1,1,6,hot air,gas,public/commercial,No,No,Yes
+505000,1538,10,38000,258,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+178000,2995,54,28300,119,2,1,1,3,hot air,gas,septic,No,No,No
+234000,2266,29,34800,106,3,0,1,6,hot air,oil,septic,No,No,No
+334000,2873,32,35100,176,4,1,2.5,6,hot water/steam,gas,public/commercial,No,No,No
+251000,11493,55,60200,143,2,1,1,7,hot water/steam,gas,septic,No,No,No
+185000,364,19,17600,138,3,1,1.5,5,electric,electric,public/commercial,No,No,No
+409000,2104,14,37300,195,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+485000,4047,8,40200,216,4,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+334000,2024,29,29000,193,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+360000,1740,33,31400,178,4,1,1.5,10,hot air,gas,public/commercial,No,No,Yes
+238000,364,18,17600,138,3,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+416000,445,25,32900,205,4,1,2.5,10,hot water/steam,gas,septic,No,No,No
+368000,971,9,28000,136,3,0,2.5,7,hot air,gas,public/commercial,No,No,No
+302000,1578,38,29600,167,4,1,1.5,10,hot air,gas,septic,No,No,No
+347000,3238,38,35500,175,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+159000,769,19,13300,100,3,0,1.5,7,electric,electric,public/commercial,No,No,No
+436000,2388,34,31700,240,5,1,3,11,hot water/steam,gas,public/commercial,No,No,Yes
+303000,1943,26,31200,140,4,1,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+278000,1862,35,32700,155,4,1,1,5,hot air,gas,public/commercial,No,No,No
+295000,1619,35,30000,162,4,1,1.5,9,hot air,gas,public/commercial,No,No,Yes
+415000,2104,40,29600,286,7,1,2.5,12,hot water/steam,gas,septic,No,No,No
+412000,3480,3,35600,184,3,1,2.5,8,hot air,gas,septic,No,No,No
+366000,1862,37,27400,214,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+303000,3845,13,9500,138,3,1,2,4,hot air,gas,septic,No,No,Yes
+272000,2550,11,17900,89,2,0,2,5,hot water/steam,gas,public/commercial,No,No,No
+276000,1700,16,17400,147,3,0,1.5,8,electric,electric,septic,No,No,No
+296000,1376,154,11900,149,4,0,1,7,hot air,oil,public/commercial,No,No,No
+514000,2024,5,4000,216,4,0,2.5,9,hot air,gas,public/commercial,No,No,No
+178000,809,14,7200,96,2,0,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+397000,11979,19,11000,138,3,0,1.5,8,electric,electric,septic,No,No,No
+223000,4047,17,3500,98,3,0,1,8,electric,electric,septic,No,No,No
+225000,4047,128,16200,80,3,0,1,6,hot air,oil,septic,No,No,No
+249000,4047,19,17600,144,3,1,2,4,electric,electric,septic,No,No,No
+417000,2104,11,18200,169,3,1,1.5,6,hot air,gas,public/commercial,No,No,No
+330000,1943,20,12500,142,3,1,2,6,hot air,gas,septic,No,No,Yes
+349000,1336,14,11900,163,4,0,2,8,hot air,gas,public/commercial,No,No,Yes
+833000,4047,25,25000,392,5,2,3.5,12,hot water/steam,gas,septic,No,No,No
+215000,10522,10,20200,205,3,1,2.5,7,hot air,oil,septic,No,No,No
+297000,607,64,36000,102,2,0,1,6,hot air,oil,public/commercial,Yes,No,No
+236000,11332,114,28300,148,7,0,1,10,hot water/steam,oil,septic,No,No,No
+228000,324,15,2100,138,3,1,2.5,8,hot air,gas,public/commercial,No,No,No
+220000,567,15,3200,138,3,1,1.5,4,hot air,gas,public/commercial,No,No,Yes
+812000,1862,88,19700,279,4,1,3.5,12,hot air,gas,septic,No,No,Yes
+417000,2550,54,9500,201,2,0,1.5,7,hot water/steam,oil,septic,No,No,No
+386000,15379,19,14400,141,2,0,1,3,hot water/steam,oil,septic,No,No,No
+347000,1862,15,15700,149,3,1,2.5,4,hot air,oil,septic,No,No,Yes
+534000,3966,25,15900,130,3,1,2,5,electric,electric,septic,No,No,No
+498000,4047,12,20300,163,4,0,1,7,hot air,gas,septic,No,No,No
+141000,4047,32,20300,82,2,0,1.5,6,electric,electric,septic,No,No,No
+417000,24565,14,25700,115,3,0,2,5,hot air,oil,septic,No,No,No
+289000,121,17,18800,141,3,1,1.5,8,hot air,gas,septic,No,No,No
+215000,728,2,15000,78,1,0,1,6,hot air,gas,public/commercial,No,No,Yes
+236000,445,1,15000,78,2,0,1,3,hot air,gas,public/commercial,No,No,Yes
+358000,1133,124,7400,241,4,0,1.5,12,hot air,gas,public/commercial,No,No,No
+126000,728,121,7300,94,3,0,1,7,hot air,gas,public/commercial,No,No,No
+262000,648,2,15000,128,3,0,1.5,6,hot air,gas,public/commercial,No,No,No
+252000,607,3,15000,127,3,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+601000,2024,5,40200,156,3,1,2.5,4,hot air,gas,public/commercial,Yes,No,Yes
+659000,14893,14,27200,189,3,1,2,9,hot water/steam,oil,septic,No,No,No
+349000,3966,16,11200,239,3,0,1.5,10,hot water/steam,oil,septic,No,No,No
+33000,2104,59,8000,87,2,0,1,4,hot air,oil,septic,No,No,No
+104000,40,13,1200,89,2,0,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+329000,3683,11,3200,126,3,1,1.5,5,hot air,oil,septic,No,No,No
+240000,1376,118,6200,99,4,0,1,8,hot water/steam,gas,public/commercial,No,No,No
+278000,8337,6,40100,140,3,0,2,5,hot air,oil,septic,No,No,No
+200000,1416,54,19600,118,4,1,1.5,9,hot air,oil,septic,No,No,No
+343000,1902,18,18800,222,6,0,3,11,hot water/steam,oil,septic,No,No,No
+288000,2833,17,28800,113,2,1,1,4,hot air,gas,septic,No,No,No
+278000,1578,52,21800,114,3,1,1,6,hot air,oil,septic,No,No,No
+349000,2104,47,28100,170,4,1,2,8,hot air,oil,septic,No,No,No
+450000,5140,27,34200,172,3,1,1.5,8,hot water/steam,oil,septic,No,No,No
+435000,8094,164,40000,211,3,0,2.5,10,hot air,oil,septic,No,No,No
+417000,2752,29,28700,168,3,1,1.5,8,hot air,oil,septic,No,No,No
+301000,1538,48,21300,118,4,1,1.5,5,hot air,gas,septic,No,No,No
+234000,1133,12,4800,145,3,1,1,8,hot air,gas,public/commercial,No,No,Yes
+593000,283,15,200,173,3,1,3.5,7,hot air,gas,public/commercial,No,No,Yes
+234000,971,64,1400,104,2,0,1,3,hot air,oil,septic,Yes,No,No
+479000,1052,15,700,170,2,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+611000,14731,0,7400,195,4,1,2.5,8,hot air,oil,public/commercial,No,No,Yes
+1004000,1659,13,3100,251,3,1,2.5,11,hot air,oil,public/commercial,No,No,No
+273000,1862,32,5800,97,3,1,1.5,5,hot water/steam,oil,public/commercial,No,No,No
+544000,607,13,400,163,2,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+200000,648,116,6800,216,3,0,2,7,hot air,oil,public/commercial,No,No,No
+339000,4047,13,13700,218,3,0,1.5,8,electric,electric,septic,No,No,No
+554000,10563,1,15700,191,3,1,2.5,9,hot water/steam,oil,septic,No,No,No
+544000,4047,33,21700,88,1,1,1,4,hot air,oil,septic,Yes,No,No
+140000,769,44,9100,60,2,0,1,6,electric,electric,septic,No,No,No
+477000,3359,6,14700,219,4,1,2.5,8,hot air,gas,septic,No,No,Yes
+456000,4047,7,17800,190,4,1,2.5,7,hot water/steam,gas,septic,No,No,No
+253000,1700,32,18500,137,4,0,1.5,9,hot air,gas,septic,No,No,Yes
+509000,3521,10,41100,206,3,1,2,10,hot air,gas,public/commercial,No,No,No
+299000,2752,16,19900,165,4,0,2,7,hot air,gas,public/commercial,No,No,No
+334000,1538,51,14600,121,4,1,2,9,hot air,oil,septic,No,No,Yes
+407000,4452,124,20100,213,4,1,1.5,9,hot water/steam,oil,septic,No,No,No
+613000,3238,134,18100,229,5,2,2.5,12,hot air,gas,septic,No,No,No
+667000,3845,2,49200,291,4,0,2.5,12,hot air,oil,septic,No,No,Yes
+593000,16593,15,26600,237,3,0,2.5,7,hot water/steam,oil,septic,No,No,No
+280000,1376,49,13100,110,2,0,1,6,hot air,oil,septic,No,No,Yes
+366000,364,48,15800,176,4,1,2,7,hot air,oil,septic,No,No,Yes
+372000,4047,12,500,181,3,1,2.5,7,hot air,oil,none,No,No,No
+548000,2307,6,15000,262,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+209000,4047,11,34900,97,3,1,2,7,electric,electric,septic,No,No,No
+282000,1943,25,14400,152,4,0,2,5,hot air,oil,septic,No,No,No
+397000,567,13,21100,205,4,1,2.5,9,hot air,gas,septic,No,No,No
+709000,769,0,74800,295,4,1,3.5,12,hot air,gas,public/commercial,No,Yes,No
+483000,2024,0,74800,217,4,1,2.5,10,hot air,gas,public/commercial,No,Yes,Yes
+551000,1416,0,74800,255,4,1,3,8,hot air,gas,public/commercial,No,Yes,No
+535000,850,0,32000,268,4,0,3,8,hot air,gas,public/commercial,No,Yes,No
+512000,14043,1,20300,201,3,1,2,10,hot air,gas,septic,No,Yes,Yes
+339000,2226,11,19300,124,3,1,2,7,hot air,gas,public/commercial,No,No,Yes
+349000,2145,4,4200,148,3,0,2.5,6,hot air,gas,public/commercial,No,No,No
+312000,2185,11,18900,149,3,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+384000,2185,11,18900,204,4,0,2.5,11,hot air,gas,public/commercial,No,No,Yes
+307000,1295,10,10700,137,3,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+301000,1012,10,8400,125,2,0,2,7,hot air,gas,public/commercial,No,No,Yes
+250000,1295,36,8000,145,3,1,1,6,hot air,gas,septic,No,No,Yes
+329000,2024,13,18300,146,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+330000,162,13,16500,150,4,0,2,7,hot air,gas,public/commercial,No,No,Yes
+200000,850,129,7300,113,3,0,1,7,hot water/steam,gas,public/commercial,No,No,No
+276000,688,124,6000,210,4,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+178000,2064,28,15000,109,3,1,1.5,4,hot air,oil,septic,No,No,No
+280000,688,29,4600,135,3,0,2,6,hot air,oil,public/commercial,No,No,No
+240000,445,29,3900,123,3,0,3,5,electric,electric,public/commercial,No,No,No
+534000,567,14,20700,193,4,1,2.5,10,hot air,gas,septic,No,No,Yes
+249000,4047,22,16800,123,3,0,2,5,electric,electric,septic,No,No,No
+570000,728,20,20900,208,4,1,2.5,10,electric,electric,septic,No,No,No
+465000,5221,19,21600,195,4,1,3,7,hot air,gas,septic,No,No,Yes
+306000,4047,27,8300,105,2,0,1,7,hot air,oil,septic,No,No,No
+349000,2428,19,16000,214,4,1,2.5,7,hot air,gas,septic,No,No,Yes
+334000,1862,20,13800,137,3,1,2,8,hot air,gas,septic,No,No,No
+191000,4168,20,20100,118,3,1,1,6,hot air,gas,septic,No,No,No
+359000,1902,15,14100,169,3,1,2,7,hot air,gas,septic,No,No,No
+309000,2024,30,15000,152,4,1,2.5,8,hot water/steam,gas,septic,No,No,No
+284000,1052,11,8700,117,2,0,1.5,5,hot air,gas,public/commercial,No,No,No
+215000,1983,30,64400,118,3,0,1,4,hot air,gas,public/commercial,No,No,No
+310000,1133,29,80800,149,4,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+465000,2104,0,77000,230,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+345000,607,0,36000,191,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+323000,202,6,32000,172,3,0,2.5,8,electric,electric,public/commercial,No,No,Yes
+608000,364,1,51400,209,3,0,3,8,hot air,gas,public/commercial,No,No,Yes
+270000,1983,32,64400,145,4,1,1.5,9,hot air,gas,public/commercial,No,No,No
+169000,769,24,39200,89,3,0,1,6,electric,electric,septic,No,No,No
+365000,405,63,85000,156,2,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+339000,121,3,27000,133,2,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+308000,648,0,36800,155,3,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+407000,1133,29,80800,212,3,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+234000,1295,31,54200,120,3,1,1,4,hot air,gas,public/commercial,No,No,Yes
+305000,931,53,73000,116,3,0,1,4,hot water/steam,gas,public/commercial,No,No,No
+623000,486,113,51300,176,4,0,1.5,8,hot water/steam,oil,public/commercial,No,No,No
+635000,607,1,61000,241,3,0,3,10,hot air,gas,public/commercial,No,No,Yes
+990000,40,0,12500,177,2,1,2,8,hot air,gas,public/commercial,No,No,Yes
+424000,1174,3,46400,156,3,0,2,6,hot air,gas,public/commercial,No,No,Yes
+263000,648,38,54900,107,2,1,1,7,hot air,gas,public/commercial,No,No,No
+183000,283,16,46600,120,3,1,1.5,5,electric,electric,public/commercial,No,No,Yes
+388000,688,93,55800,223,4,1,1.5,11,hot air,gas,public/commercial,No,No,No
+1083000,971,55,255000,287,4,2,4,12,hot water/steam,gas,public/commercial,No,No,Yes
+403000,850,142,107000,133,3,0,1,8,hot water/steam,oil,public/commercial,No,No,No
+489000,607,0,114000,152,3,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+225000,971,33,49100,127,3,0,1,7,hot air,gas,public/commercial,No,No,No
+234000,648,36,54900,105,3,0,1,4,hot air,gas,public/commercial,No,No,No
+287000,1214,27,84600,158,3,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+355000,1214,6,47000,155,3,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+514000,486,78,89000,162,4,1,2.5,6,hot water/steam,oil,public/commercial,No,No,Yes
+446000,607,103,210000,136,2,0,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+368000,607,0,54000,152,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+752000,5666,12,128500,203,3,0,2.5,6,hot air,gas,none,No,No,Yes
+696000,607,0,95000,197,3,1,2.5,6,hot air,electric,public/commercial,No,No,Yes
+184000,1012,32,50000,87,3,1,1,8,hot air,gas,public/commercial,No,No,No
+583000,688,169,220000,311,6,2,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+259000,1457,32,50600,170,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+682000,648,1,62600,241,3,0,3,8,hot air,gas,public/commercial,No,No,Yes
+227000,2752,64,84200,100,2,0,1,7,hot air,oil,septic,No,No,No
+1496000,4937,2,194700,293,5,0,3.5,12,hot air,gas,septic,No,No,Yes
+529000,1012,150,115000,198,3,1,1.5,8,hot water/steam,gas,public/commercial,No,No,No
+238000,243,18,28800,150,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+613000,931,5,73800,308,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+382000,1943,25,57800,216,3,1,1.5,10,hot water/steam,gas,public/commercial,No,No,No
+282000,971,32,49100,153,4,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+623000,486,73,89000,132,3,0,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+181000,607,103,54000,119,2,1,1,3,hot water/steam,gas,public/commercial,No,No,No
+956000,1376,3,82400,322,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+339000,445,83,87000,116,3,0,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+225000,1012,33,50000,127,3,0,1,5,hot air,gas,public/commercial,No,No,No
+536000,526,1,110200,130,3,0,2.5,8,hot air,gas,public/commercial,No,No,No
+503000,162,15,36000,186,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+570000,486,1,56200,209,3,0,3,6,hot air,gas,public/commercial,No,No,Yes
+705000,1578,0,85400,259,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+539000,283,0,48200,209,3,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+236000,1376,33,55400,131,3,0,1,6,hot air,gas,public/commercial,No,No,No
+343000,4047,25,98500,149,3,1,1.5,7,hot air,gas,septic,No,No,Yes
+309000,162,103,36000,131,2,0,1,3,hot air,gas,public/commercial,No,No,No
+241000,850,37,59400,90,3,0,1,8,hot air,gas,public/commercial,No,No,No
+1208000,4290,14,125100,452,5,2,4,12,hot air,oil,septic,No,No,Yes
+1064000,1012,0,63000,268,3,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+524000,364,82,83000,145,2,0,1,6,hot air,gas,public/commercial,No,No,No
+244000,1052,33,50600,137,3,0,1,8,hot air,gas,public/commercial,No,No,No
+359000,567,0,35200,198,3,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+637000,607,1,114000,201,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+625000,1862,0,89600,234,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+462000,2550,0,98500,213,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+215000,1052,123,63300,162,4,0,1,6,hot air,gas,public/commercial,No,No,No
+446000,1943,0,90800,188,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+436000,890,34,72000,147,3,0,2,8,hot water/steam,gas,public/commercial,No,No,Yes
+964000,3683,0,239300,316,3,0,3,12,hot air,gas,public/commercial,Yes,No,Yes
+446000,283,13,48200,162,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+505000,1862,0,89600,238,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+417000,486,51,89000,130,3,0,2.5,4,hot air,gas,public/commercial,No,No,Yes
+524000,648,0,62600,232,3,0,2.5,8,hot air,gas,public/commercial,No,No,Yes
+417000,1943,27,57800,205,4,2,2.5,11,hot air,gas,public/commercial,No,No,Yes
+462000,1862,0,89600,237,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+514000,121,16,27000,169,2,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+247000,486,50,89000,120,2,0,1,3,hot water/steam,gas,public/commercial,No,No,No
+272000,567,16,52200,109,2,0,2,3,hot air,gas,public/commercial,No,No,No
+1267000,4209,10,192900,384,3,2,3.5,12,hot air,gas,septic,No,No,Yes
+359000,1983,17,64400,169,3,1,2.5,5,electric,electric,public/commercial,No,No,Yes
+709000,2631,4,99500,244,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+309000,607,0,36000,117,3,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+261000,607,113,54000,154,4,1,1.5,9,hot air,gas,public/commercial,No,No,No
+349000,2024,43,73500,172,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+303000,567,0,35200,117,3,0,2,8,hot air,gas,public/commercial,No,No,Yes
+291000,931,0,42400,113,3,0,2,5,hot air,gas,public/commercial,No,No,Yes
+618000,567,14,59400,172,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+460000,1174,9,52400,196,3,0,2.5,7,hot air,gas,public/commercial,No,No,No
+599000,931,3,73800,168,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+645000,931,52,250000,156,2,1,1.5,4,hot water/steam,gas,public/commercial,No,No,No
+541000,324,0,49800,209,3,0,2.5,10,hot air,gas,public/commercial,No,No,Yes
+286000,121,103,27000,131,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+861000,4047,20,124800,322,3,2,2.5,12,electric,electric,septic,No,No,Yes
+257000,648,28,50400,161,3,0,1.5,6,hot air,gas,public/commercial,No,No,No
+740000,4047,16,125900,219,3,2,2.5,6,electric,electric,septic,No,No,Yes
+915000,1700,4,87200,209,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+464000,728,0,119700,177,2,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+253000,1214,30,53000,110,3,0,1,7,hot air,gas,public/commercial,No,No,No
+567000,2954,0,103500,269,4,1,3.5,11,hot air,gas,public/commercial,No,No,Yes
+812000,4168,24,124800,229,3,1,3,9,hot air,gas,public/commercial,No,No,Yes
+217000,1012,32,50000,87,3,0,1,8,hot air,gas,public/commercial,No,No,No
+272000,769,123,103000,87,2,0,1,7,hot water/steam,gas,public/commercial,No,No,No
+249000,1174,30,52400,119,3,1,1,6,hot air,gas,public/commercial,No,No,No
+368000,1578,6,69400,176,3,0,2,5,hot water/steam,gas,septic,No,No,No
+263000,1093,33,63700,157,4,1,1.5,7,hot air,gas,public/commercial,No,No,No
+893000,1012,22,61000,215,2,1,3,7,hot air,gas,public/commercial,No,No,Yes
+287000,1295,1,48200,112,3,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+712000,1093,50,78800,181,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+268000,1457,51,50600,110,3,0,1,5,electric,electric,septic,No,No,No
+641000,1457,3,83600,186,3,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+499000,283,14,48200,162,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+544000,486,3,108300,151,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+507000,1416,1,67000,219,4,0,2.5,11,hot air,gas,public/commercial,No,No,Yes
+521000,2509,1,98000,207,3,0,2.5,10,hot air,gas,public/commercial,No,No,Yes
+249000,283,94,46800,107,2,0,1.5,3,hot air,gas,public/commercial,No,No,No
+697000,1093,2,78200,205,3,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+819000,1700,4,87200,302,4,0,2.5,11,hot air,gas,public/commercial,No,No,Yes
+253000,1943,34,57800,133,3,0,1.5,5,hot air,gas,public/commercial,No,No,No
+253000,1457,35,56600,87,3,0,1,7,hot air,gas,public/commercial,No,No,No
+263000,1214,33,53000,127,3,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+524000,283,16,48200,167,3,1,2.5,8,hot air,electric,public/commercial,No,No,Yes
+350000,688,16,49500,179,3,1,1.5,9,hot air,gas,public/commercial,No,No,No
+499000,445,83,87000,132,3,0,2,7,hot water/steam,gas,public/commercial,No,No,No
+301000,567,77,93000,57,2,0,1,5,hot air,gas,public/commercial,No,No,No
+524000,405,79,85000,138,4,0,1.5,5,hot air,gas,public/commercial,No,No,No
+417000,445,84,87000,123,3,1,1.5,6,hot air,oil,public/commercial,No,No,No
+268000,243,18,45800,116,2,0,1.5,5,hot air,gas,public/commercial,No,No,Yes
+301000,1295,32,54200,120,3,1,1,6,hot air,gas,public/commercial,No,No,Yes
+644000,1538,0,84800,268,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+240000,1700,36,60200,119,3,1,1,4,hot air,gas,public/commercial,No,No,No
+207000,809,104,56700,100,3,0,1,7,hot air,gas,public/commercial,No,No,No
+446000,2347,52,78300,121,3,1,1,4,hot water/steam,gas,septic,No,No,No
+1167000,162,17,36000,297,3,2,3.5,12,hot air,gas,public/commercial,No,No,Yes
+125000,1214,44,64700,98,3,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+349000,121,18,19200,137,3,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+613000,324,115,81000,149,3,0,1.5,6,hot water/steam,gas,public/commercial,No,No,No
+524000,567,84,93000,108,3,0,1.5,4,hot water/steam,gas,public/commercial,No,No,No
+475000,486,104,89000,96,2,0,1,5,hot air,gas,public/commercial,No,No,No
+564000,809,104,105000,187,6,0,1,11,hot water/steam,gas,public/commercial,No,No,No
+189000,1943,34,63800,121,3,0,1,7,hot air,gas,public/commercial,No,No,No
+251000,1093,56,62500,87,2,0,1,3,hot air,gas,public/commercial,No,No,No
+301000,243,15,45800,120,3,1,1.5,5,hot air,gas,public/commercial,No,No,No
+309000,688,19,37600,135,2,0,1.5,5,hot air,gas,public/commercial,No,No,No
+290000,971,29,49100,127,3,0,1,5,hot air,gas,public/commercial,No,No,No
+564000,3521,25,90800,283,4,1,1.5,11,hot water/steam,gas,septic,No,No,No
+293000,931,32,48200,118,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+427000,2388,18,69500,169,4,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+407000,1659,31,105700,147,4,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+326000,1174,32,52400,154,4,1,1.5,7,hot air,gas,public/commercial,No,No,No
+663000,1295,36,144900,228,3,1,2.5,10,hot water/steam,oil,public/commercial,No,No,No
+633000,567,94,50200,186,3,0,2,9,hot air,gas,public/commercial,No,No,Yes
+1161000,4330,0,193200,392,4,1,3.5,12,hot air,gas,septic,No,No,Yes
+316000,1336,32,54800,153,4,0,1.5,9,hot air,gas,public/commercial,No,No,Yes
+1000000,688,144,99000,265,3,1,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+391000,2024,18,65000,169,3,1,2,7,hot air,gas,public/commercial,No,No,Yes
+272000,3521,19,93300,189,4,0,2,10,hot air,oil,public/commercial,No,No,No
+255000,890,40,54500,72,2,0,1,7,hot water/steam,gas,public/commercial,No,No,No
+169000,1336,34,54800,127,2,0,1,6,hot air,gas,public/commercial,No,No,No
+294000,971,34,49100,87,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+665000,607,1,114000,156,2,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+282000,1214,33,53000,127,3,0,1,6,hot air,gas,public/commercial,No,No,No
+365000,1619,34,53000,123,3,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+516000,850,62,107000,147,3,1,2,4,hot air,oil,public/commercial,No,No,Yes
+305000,1012,32,50000,120,3,0,1,8,hot air,gas,public/commercial,No,No,No
+421000,3399,25,207700,198,3,2,2.5,7,hot air,gas,public/commercial,No,No,Yes
+773000,1578,3,85400,186,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+752000,567,3,112100,207,3,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+683000,1659,99,139000,246,4,0,2,9,hot water/steam,gas,public/commercial,No,No,No
+1527000,0,5,412600,230,3,1,2.5,9,hot air,gas,septic,Yes,No,Yes
+534000,283,16,48200,179,2,2,3,6,hot air,electric,public/commercial,No,No,Yes
+564000,486,4,108300,143,3,0,2.5,8,hot air,gas,public/commercial,No,No,Yes
+395000,1012,39,44000,139,3,0,1.5,4,hot air,gas,septic,No,No,No
+424000,890,46,72000,105,3,1,2,8,hot water/steam,gas,public/commercial,No,No,No
+623000,931,33,61200,133,3,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+265000,1700,44,60200,106,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+725000,607,2,114000,201,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+823000,1376,5,82400,217,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+1269000,1740,2,87800,256,3,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+358000,688,40,37600,140,4,0,1.5,6,hot air,gas,septic,No,No,No
+522000,1578,14,58400,230,4,1,3.5,7,hot air,gas,public/commercial,No,No,Yes
+335000,1255,35,47600,193,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+359000,121,18,19200,138,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+903000,688,135,99000,195,3,2,2.5,8,hot air,gas,public/commercial,No,No,No
+305000,445,80,50400,98,2,0,1,6,hot water/steam,gas,public/commercial,No,No,No
+582000,81,17,18000,153,2,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+402000,1376,26,92300,148,3,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+368000,688,44,99000,91,3,0,2,8,hot water/steam,gas,public/commercial,No,No,No
+368000,648,18,53800,130,2,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+328000,1862,44,70200,80,2,0,1,7,hot air,gas,public/commercial,No,No,No
+621000,4047,1,106800,255,4,0,2.5,10,hot air,gas,septic,No,No,Yes
+712000,243,15,46600,214,3,1,3,10,hot air,gas,public/commercial,No,No,Yes
+301000,1174,34,52400,150,3,1,1,5,hot air,gas,public/commercial,No,No,No
+1263000,4371,14,193300,246,4,1,2.5,12,hot air,gas,septic,No,No,Yes
+593000,2550,19,65500,72,1,0,1,6,hot air,oil,public/commercial,No,No,No
+384000,1376,26,49400,230,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+772000,2347,6,80000,291,4,1,3,9,hot air,gas,septic,No,No,No
+1035000,4047,14,192500,303,4,1,2.5,12,hot air,gas,septic,No,No,Yes
+337000,1619,34,59000,144,3,0,2.5,7,hot air,gas,public/commercial,No,No,No
+169000,688,139,1900,131,6,0,1.5,9,hot water/steam,gas,public/commercial,No,No,No
+155000,1862,44,2100,84,2,0,1,3,hot air,gas,septic,No,No,No
+236000,931,66,3600,141,3,1,1,8,hot air,gas,public/commercial,No,No,No
+229000,809,77,3400,115,3,1,1,8,hot air,gas,public/commercial,No,No,No
+187000,850,54,3500,86,2,0,1,7,hot air,gas,public/commercial,No,No,No
+215000,728,70,3100,120,3,0,1,4,hot air,gas,public/commercial,No,No,No
+521000,648,17,5200,242,4,0,3,12,electric,electric,septic,No,No,No
+132000,526,124,1500,121,3,0,2,8,hot air,gas,public/commercial,No,No,No
+219000,1902,20,4700,106,3,0,1,6,hot water/steam,gas,septic,No,No,No
+384000,1821,39,5500,158,3,0,2,6,hot water/steam,gas,septic,No,No,No
+274000,2388,15,4500,144,3,1,2,4,electric,electric,septic,No,No,No
+249000,1538,15,1700,97,2,0,1,3,electric,electric,septic,No,No,No
+424000,2226,11,7500,198,4,0,3,10,hot water/steam,gas,septic,No,No,No
+234000,2104,13,4500,125,3,0,2,5,hot air,gas,septic,No,No,No
+159000,1862,66,3900,82,2,0,1,3,hot air,gas,septic,No,No,No
+263000,3076,11,3800,169,3,0,1.5,7,hot air,oil,septic,No,No,No
+152000,1862,43,5500,82,3,0,1,4,hot air,gas,septic,No,No,No
+169000,688,134,2300,117,3,0,2,5,hot air,gas,public/commercial,No,No,No
+359000,1376,15,5000,170,3,1,2.5,6,hot air,gas,septic,No,No,Yes
+192000,405,126,1100,105,3,0,1.5,7,hot air,gas,public/commercial,No,No,No
+236000,2185,41,5300,178,4,1,2.5,8,hot air,gas,septic,No,No,No
+304000,3035,3,1700,118,3,0,1.5,7,hot air,gas,septic,No,No,No
+229000,1740,39,4900,89,3,0,1,6,hot air,gas,septic,No,No,Yes
+213000,607,65,2500,107,2,0,1.5,4,hot air,gas,public/commercial,No,No,No
+164000,2104,13,4500,78,2,0,1,4,hot air,gas,septic,No,No,No
+318000,1862,34,5500,196,5,0,2,11,hot air,gas,septic,No,No,No
+330000,2104,10,2500,152,3,0,2,8,hot air,gas,septic,No,No,No
+282000,1659,9,300,102,3,0,2,8,hot air,gas,septic,No,No,No
+266000,1781,25,13200,152,3,1,1.5,8,hot air,gas,septic,No,No,Yes
+296000,1862,26,13800,176,3,1,2.5,7,hot air,gas,septic,No,No,Yes
+388000,1943,32,18400,207,5,2,2.5,11,hot air,gas,septic,No,No,No
+301000,2631,22,16500,137,3,1,2,6,electric,electric,septic,No,No,No
+221000,324,16,2100,138,3,1,1.5,5,hot air,gas,public/commercial,No,No,No
+272000,2347,36,13300,127,3,1,1,4,hot air,gas,septic,No,No,No
+232000,567,7,7200,112,3,0,1,8,hot air,gas,public/commercial,No,No,No
+156000,567,0,7400,78,2,0,1,7,hot air,gas,public/commercial,No,No,Yes
+320000,2752,54,25900,109,3,0,2,8,hot air,oil,public/commercial,No,No,No
+217000,526,0,7400,128,3,0,2,4,hot air,gas,public/commercial,No,Yes,No
+268000,1174,0,11300,166,3,0,2.5,7,hot air,gas,septic,No,Yes,No
+212000,890,17,3400,138,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+366000,2024,13,15300,146,3,1,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+140000,728,154,7500,88,2,0,1.5,5,hot air,oil,septic,No,No,No
+522000,2226,14,25300,296,4,1,3.5,12,hot air,gas,public/commercial,No,No,Yes
+159000,1133,16,10600,125,3,0,1.5,7,hot air,gas,septic,No,No,No
+163000,1416,20,12000,124,2,1,1.5,5,electric,electric,septic,No,No,Yes
+278000,1012,10,8400,143,3,0,2.5,6,hot air,gas,public/commercial,No,No,No
+310000,10846,11,21400,211,4,1,3.5,8,hot water/steam,oil,septic,No,No,No
+263000,809,15,3400,138,2,1,2.5,4,hot air,gas,public/commercial,No,No,No
+556000,81,8,14000,233,4,2,2.5,10,hot air,gas,public/commercial,No,No,No
+272000,1497,1,15800,172,4,0,2,6,hot air,oil,septic,No,No,No
+152000,1821,19,14000,98,2,1,1,7,hot air,gas,septic,No,No,No
+212000,1457,21,40000,129,3,0,1.5,7,hot air,gas,septic,No,No,No
+282000,3035,53,6500,150,3,1,2,5,hot air,oil,septic,No,No,No
+412000,2792,15,16900,145,3,1,2,6,hot air,gas,public/commercial,No,No,No
+465000,1862,17,18400,192,4,1,2.5,10,hot air,gas,septic,No,No,Yes
+692000,2792,13,21900,234,4,0,2.5,11,hot air,oil,septic,No,No,Yes
+215000,3602,14,19300,157,4,0,1.5,5,electric,electric,septic,No,No,No
+355000,1902,18,14100,138,3,0,1.5,5,hot water/steam,gas,septic,No,No,No
+151000,607,67,2600,93,3,0,1,6,hot water/steam,oil,public/commercial,No,No,No
+144000,1862,17,4420,83,2,0,1,3,hot water/steam,oil,public/commercial,No,No,No
+417000,3116,50,3000,74,2,1,1,7,hot water/steam,oil,septic,No,No,No
+446000,3440,34,50400,255,4,2,3.5,12,hot water/steam,oil,septic,No,No,No
+436000,40,1,43300,212,4,0,2.5,8,hot air,gas,public/commercial,No,Yes,Yes
+200000,81,19,14900,119,2,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+487000,2307,14,43200,229,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+762000,2428,9,57000,269,4,2,2.5,12,hot air,gas,public/commercial,No,No,Yes
+583000,1659,4,37600,248,4,1,3.5,8,hot air,electric,public/commercial,No,No,Yes
+333000,1174,21,26300,180,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+344000,1902,11,25500,123,3,0,2.5,7,hot air,gas,public/commercial,No,No,No
+772000,2469,6,23900,307,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+802000,4614,6,82100,305,4,1,3,11,hot air,gas,public/commercial,No,No,Yes
+681000,1943,4,37100,298,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+215000,40,16,9900,113,2,0,2.5,6,electric,electric,public/commercial,No,No,Yes
+313000,1255,37,21500,166,3,1,1.5,6,hot water/steam,gas,public/commercial,No,No,No
+291000,850,16,28800,110,2,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+342000,850,16,28000,135,3,1,2,8,hot air,electric,public/commercial,No,No,Yes
+485000,1862,13,36600,199,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+206000,40,16,9900,113,2,0,1.5,6,electric,electric,public/commercial,No,No,Yes
+351000,1781,39,24100,141,4,1,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+673000,1416,0,233000,310,4,1,2.5,12,hot air,gas,public/commercial,No,Yes,Yes
+643000,2307,10,54600,218,3,0,2.5,10,hot air,gas,public/commercial,No,No,Yes
+159000,1983,74,10600,89,2,0,1,7,hot air,gas,septic,No,No,No
+456000,162,6,28800,144,3,0,2.5,8,hot air,gas,public/commercial,No,No,No
+605000,1862,7,36400,267,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+289000,890,18,29600,110,2,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+320000,2509,38,15100,127,3,0,1.5,6,hot air,gas,septic,No,No,No
+551000,1983,10,38400,177,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+388000,2064,11,26900,123,3,0,2,8,hot air,gas,public/commercial,No,No,No
+334000,4047,34,25200,148,3,1,1.5,5,hot air,gas,septic,No,No,No
+407000,1862,8,38100,172,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+702000,1862,1,36600,291,4,1,2.5,12,hot air,gas,public/commercial,No,Yes,Yes
+536000,1902,7,20000,186,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+310000,1983,36,27800,151,3,1,1.5,8,hot air,gas,public/commercial,No,No,Yes
+293000,931,40,22000,104,3,0,1,7,hot water/steam,oil,public/commercial,No,No,No
+538000,1457,2,53900,220,5,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+593000,3804,9,48200,239,4,1,2.5,11,hot air,gas,public/commercial,No,No,No
+324000,1376,25,9200,144,3,0,1.5,5,electric,electric,septic,No,No,No
+627000,4047,11,26700,254,3,0,2.5,11,hot air,gas,public/commercial,No,No,Yes
+463000,2145,8,38800,136,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+328000,364,15,25500,145,2,0,2.5,7,hot air,gas,public/commercial,No,No,No
+272000,2104,34,14000,155,3,0,1.5,8,hot water/steam,oil,septic,No,No,No
+417000,1497,16,24500,175,4,1,3,10,hot air,gas,public/commercial,No,No,No
+333000,1336,37,21400,171,3,1,1,7,hot air,gas,public/commercial,No,No,No
+623000,2024,9,37800,220,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+301000,1336,32,22500,196,5,1,1.5,11,hot water/steam,gas,public/commercial,No,No,No
+330000,1255,16,36800,110,2,0,1.5,7,hot air,gas,public/commercial,No,No,No
+605000,2145,11,38800,223,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+330000,445,15,15400,115,2,1,1.5,4,hot air,gas,public/commercial,No,No,No
+326000,567,17,19600,110,2,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+524000,2226,2,39500,188,4,1,2.5,9,hot air,gas,public/commercial,No,No,No
+328000,567,19,21000,127,2,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+335000,607,17,21000,125,2,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+964000,4047,70,35900,139,3,0,1,7,hot air,oil,septic,No,No,No
+310000,1497,37,24500,93,3,1,1,6,hot water/steam,gas,public/commercial,No,No,No
+328000,1376,24,27000,195,3,1,2.5,9,hot air,gas,public/commercial,No,No,No
+339000,1295,18,27000,154,3,1,1.5,4,hot air,gas,public/commercial,No,No,No
+325000,1336,18,27000,145,3,0,1.5,7,hot air,electric,public/commercial,No,No,No
+201000,607,19,15700,92,2,0,2,7,electric,electric,public/commercial,No,No,No
+330000,1295,17,27000,164,5,1,2,9,hot water/steam,gas,public/commercial,No,No,No
+16000,648,20,15700,85,2,1,1.5,4,electric,electric,public/commercial,No,No,No
+249000,648,17,15100,148,3,0,1.5,7,electric,electric,public/commercial,No,No,No
+261000,243,54,3600,125,5,0,1,8,electric,electric,public/commercial,No,No,No
+237000,648,17,15100,129,2,1,1.5,7,electric,electric,public/commercial,No,No,No
+222000,607,17,15100,129,2,0,1.5,5,electric,electric,public/commercial,No,No,No
+221000,607,17,15100,156,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+195000,607,20,15700,84,2,0,1,7,electric,electric,public/commercial,No,No,No
+316000,1255,16,27000,142,2,1,2,5,hot air,gas,public/commercial,No,No,Yes
+187000,648,20,15700,85,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+220000,607,18,15100,110,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+351000,1862,26,24500,160,3,1,1.5,7,electric,electric,public/commercial,No,No,No
+270000,648,19,15100,100,2,1,1,6,electric,electric,septic,No,No,No
+378000,1336,16,27000,197,4,1,2,9,electric,electric,public/commercial,No,No,No
+417000,1336,16,27000,235,3,0,1.5,10,electric,electric,public/commercial,No,No,No
+388000,1983,15,25000,148,3,1,1.5,8,hot air,gas,septic,No,No,No
+347000,1295,18,27000,120,3,0,1,4,electric,electric,public/commercial,No,No,No
+353000,3804,33,25200,184,4,1,2.5,8,hot water/steam,gas,septic,No,No,No
+248000,648,17,15700,92,2,1,2,7,electric,electric,public/commercial,No,No,No
+368000,1457,20,27000,140,3,1,2,8,hot air,gas,public/commercial,No,No,No
+227000,648,17,15600,84,2,0,1,4,electric,electric,public/commercial,No,No,No
+396000,1416,20,27000,178,4,1,2,7,electric,electric,public/commercial,No,No,No
+276000,607,18,15700,85,2,0,1.5,5,electric,electric,public/commercial,No,No,No
+206000,648,20,15700,85,2,0,1.5,5,electric,electric,public/commercial,No,No,No
+155000,648,19,15700,92,2,0,2,4,electric,electric,public/commercial,No,No,No
+310000,1416,20,27000,163,2,0,2,4,electric,electric,public/commercial,No,No,No
+247000,648,18,15700,85,2,1,1.5,3,electric,electric,public/commercial,No,No,No
+263000,607,17,15100,129,3,0,1.5,8,electric,electric,public/commercial,No,No,No
+372000,1740,15,25000,121,3,0,1.5,7,hot air,gas,septic,No,No,No
+234000,607,17,15600,84,2,0,1,7,electric,electric,public/commercial,No,No,No
+495000,4047,25,21700,177,3,0,2,7,electric,electric,septic,No,No,No
+339000,1336,16,27000,204,3,1,2.5,7,electric,electric,public/commercial,No,No,No
+234000,648,25,15100,100,2,1,1,4,hot air,gas,public/commercial,No,No,Yes
+349000,2388,15,25000,121,3,1,1.5,5,hot air,gas,septic,No,No,Yes
+376000,1619,1,15000,229,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+225000,1416,22,10500,97,3,0,1,4,electric,electric,public/commercial,No,No,No
+662000,1781,0,13000,268,4,1,3,12,hot air,gas,public/commercial,No,Yes,No
+257000,567,8,3700,171,3,0,1,6,hot air,gas,public/commercial,No,No,No
+239000,1497,19,13000,185,2,0,1,4,electric,electric,public/commercial,No,No,No
+407000,4047,43,22900,62,2,0,1,3,hot air,oil,septic,No,No,No
+291000,7932,13,18400,141,2,0,2,4,hot air,oil,septic,No,No,No
+16000,648,20,15700,85,2,1,1.5,6,electric,electric,public/commercial,No,No,No
+169000,607,19,15700,85,2,0,1.5,6,electric,electric,public/commercial,No,No,No
+219000,607,17,15000,129,2,0,1.5,5,electric,electric,public/commercial,No,No,No
+270000,1255,18,27000,140,3,1,1.5,8,hot air,gas,public/commercial,No,No,No
+206000,607,17,15100,129,2,0,1.5,5,electric,electric,public/commercial,No,No,No
+253000,607,19,15100,151,3,0,2.5,6,electric,electric,public/commercial,No,No,No
+249000,648,17,15100,148,3,0,1.5,5,electric,electric,public/commercial,No,No,No
+261000,243,54,3600,125,5,0,1,7,electric,electric,public/commercial,No,No,No
+237000,648,17,15100,129,2,1,1.5,7,electric,electric,public/commercial,No,No,No
+222000,607,17,15100,129,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+221000,607,17,15100,156,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+195000,607,20,15700,84,2,0,1,3,electric,electric,public/commercial,No,No,No
+316000,1255,16,27000,142,2,1,2,7,hot air,gas,public/commercial,No,No,Yes
+187000,648,20,15700,85,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+220000,607,18,15100,110,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+351000,1862,26,24500,160,3,1,1.5,5,electric,electric,public/commercial,No,No,No
+270000,648,19,15100,100,2,1,1,5,electric,electric,septic,No,No,No
+378000,1336,16,27000,197,4,1,2,10,electric,electric,public/commercial,No,No,No
+417000,1336,16,27000,235,3,0,1.5,8,electric,electric,public/commercial,No,No,No
+388000,1983,15,25000,148,3,1,1.5,7,hot air,gas,septic,No,No,No
+347000,1295,18,27000,120,3,0,1,4,electric,electric,public/commercial,No,No,No
+353000,3804,33,25200,184,4,1,2.5,9,hot water/steam,gas,septic,No,No,No
+248000,648,17,15700,92,2,1,2,3,electric,electric,public/commercial,No,No,No
+368000,1457,20,27000,140,3,1,2,7,hot air,gas,public/commercial,No,No,No
+227000,648,17,15600,84,2,0,1,4,electric,electric,public/commercial,No,No,No
+396000,1416,20,27000,178,4,1,2,10,electric,electric,public/commercial,No,No,No
+276000,607,18,15700,85,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+206000,648,20,15700,85,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+155000,648,19,15700,92,2,0,2,5,electric,electric,public/commercial,No,No,No
+310000,1416,20,27000,163,2,0,2,6,electric,electric,public/commercial,No,No,No
+247000,648,18,15700,85,2,1,1.5,6,electric,electric,public/commercial,No,No,No
+263000,607,17,15100,129,3,0,1.5,7,electric,electric,public/commercial,No,No,No
+372000,1740,15,25000,121,3,0,1.5,4,hot air,gas,septic,No,No,No
+234000,607,17,15600,84,2,0,1,5,electric,electric,public/commercial,No,No,No
+495000,4047,25,21700,177,3,0,2,8,electric,electric,septic,No,No,No
+339000,1336,16,27000,204,3,1,2.5,8,electric,electric,public/commercial,No,No,No
+234000,648,25,15100,100,2,1,1,5,hot air,gas,public/commercial,No,No,Yes
+349000,2388,15,25000,121,3,1,1.5,5,hot air,gas,septic,No,No,Yes
+376000,1619,1,15000,229,4,1,2.5,11,hot air,gas,public/commercial,No,No,No
+225000,1416,22,10500,97,3,0,1,8,electric,electric,public/commercial,No,No,No
+662000,1781,0,13000,268,4,1,3,11,hot air,gas,public/commercial,No,Yes,No
+257000,567,8,3700,171,3,0,1,7,hot air,gas,public/commercial,No,No,No
+239000,1497,19,13000,185,2,0,1,5,electric,electric,public/commercial,No,No,No
+407000,4047,43,22900,62,2,0,1,5,hot air,oil,septic,No,No,No
+291000,7932,13,18400,141,2,0,2,6,hot air,oil,septic,No,No,No
+285000,1133,52,23200,152,4,0,1.5,5,hot air,oil,septic,No,No,No
+249000,1255,39,25100,155,4,0,1.5,5,hot air,gas,public/commercial,No,No,No
+303000,1012,26,29000,176,3,2,2,6,hot air,gas,public/commercial,No,No,Yes
+359000,2266,18,30800,154,3,1,2,6,hot water/steam,gas,public/commercial,No,No,No
+555000,2428,21,91600,234,4,1,2.5,8,hot air,gas,septic,No,No,Yes
+883000,1902,1,14100,310,4,1,3.5,12,hot air,gas,public/commercial,No,No,Yes
+227000,202,17,16000,121,2,1,1.5,4,hot air,gas,public/commercial,No,No,Yes
+408000,2347,16,38200,187,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+320000,1174,27,22700,171,4,1,1.5,8,hot air,gas,public/commercial,No,No,Yes
+475000,4047,49,69600,185,3,1,2,9,hot air,oil,septic,No,No,No
+339000,2024,19,29000,154,3,1,2,6,hot water/steam,gas,public/commercial,No,No,No
+434000,2307,8,31100,176,3,1,2.5,7,hot air,gas,public/commercial,No,No,No
+241000,324,19,17200,138,3,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+274000,809,19,19000,115,2,1,2,7,electric,electric,public/commercial,No,No,No
+287000,1214,31,24500,165,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+534000,2631,23,72000,234,5,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+402000,2266,35,30800,251,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+564000,2833,21,39200,217,4,1,3.5,8,hot air,gas,public/commercial,No,No,Yes
+294000,2428,33,32000,249,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+401000,11534,25,54700,203,4,1,2,8,electric,electric,septic,No,No,Yes
+465000,1902,21,48300,212,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+223000,243,19,16400,122,2,0,1.5,6,electric,electric,public/commercial,No,No,No
+462000,1659,35,44300,223,4,1,2.5,11,hot air,gas,septic,No,No,No
+343000,2307,45,33200,194,4,1,2,8,hot water/steam,gas,septic,No,No,No
+359000,1943,39,28200,215,5,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+446000,2145,19,65800,190,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+913000,49373,19,111300,242,3,1,2.5,11,hot air,electric,septic,No,No,Yes
+458000,2469,16,29100,158,3,1,1.5,6,hot water/steam,gas,public/commercial,No,No,No
+407000,1983,18,28600,198,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+356000,2428,38,32000,215,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+219000,486,31,18200,133,3,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+212000,607,20,18500,86,2,0,1,7,hot water/steam,gas,public/commercial,No,No,No
+225000,3116,126,36300,167,3,1,1,6,hot air,gas,septic,No,No,No
+180000,1052,23,18200,91,3,0,2,5,electric,electric,public/commercial,No,No,No
+463000,2671,19,53000,206,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+330000,2307,102,25800,183,4,2,1,6,hot water/steam,oil,septic,No,No,No
+549000,1902,19,75200,221,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+367000,1943,18,36700,147,3,1,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+378000,1862,32,32700,135,4,1,2,7,hot air,gas,public/commercial,No,No,No
+623000,2307,12,67300,276,4,1,3,11,hot air,oil,public/commercial,No,No,Yes
+328000,1740,37,31400,150,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+647000,2347,4,17400,254,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+263000,607,22,18500,138,3,1,1.5,5,electric,electric,public/commercial,No,No,Yes
+115000,567,19,18400,88,2,0,1,3,electric,electric,public/commercial,No,No,Yes
+504000,1619,25,25000,180,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+280000,405,174,32800,127,5,1,1,9,hot air,oil,septic,No,No,No
+873000,2024,2,15000,302,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+465000,1700,23,57500,146,3,2,2,7,hot air,gas,public/commercial,No,No,Yes
+301000,364,21,17600,122,2,1,1.5,6,electric,electric,public/commercial,No,No,Yes
+621000,1862,3,16100,224,4,1,1.5,11,hot air,gas,public/commercial,No,No,Yes
+85000,1943,56,31800,84,2,1,1,5,hot air,oil,septic,No,No,No
+853000,2347,0,17400,294,4,1,3.5,10,hot air,gas,public/commercial,No,No,Yes
+128000,1133,102,22400,84,2,1,1,7,hot water/steam,oil,septic,No,No,No
+225000,526,20,18300,86,2,0,1,6,electric,electric,public/commercial,No,No,No
+266000,486,18,18200,106,2,1,1,6,electric,electric,public/commercial,No,No,Yes
+386000,1821,38,27000,215,5,1,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+361000,1862,30,30400,174,4,1,2,9,hot air,gas,public/commercial,No,No,No
+286000,1174,20,20300,114,4,0,1.5,6,electric,electric,public/commercial,No,No,No
+226000,243,19,16400,138,3,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+349000,1781,38,31800,150,3,0,1.5,6,hot air,gas,public/commercial,No,No,No
+465000,1983,22,48800,194,4,1,2.5,6,electric,electric,public/commercial,No,No,Yes
+475000,1619,4,30000,198,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+234000,607,20,18500,86,2,1,1,5,hot air,gas,public/commercial,No,No,No
+113000,1376,74,24800,157,4,0,1.5,8,electric,electric,septic,No,No,No
+191000,1133,82,12600,146,3,0,1,7,hot air,gas,septic,No,No,No
+475000,2307,35,33200,210,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+758000,2469,8,71200,275,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+322000,1821,31,27000,157,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+465000,3480,36,35800,249,5,1,3.5,12,hot water/steam,gas,public/commercial,No,No,Yes
+455000,1538,26,40100,255,3,1,3,8,hot air,oil,septic,No,No,No
+407000,2024,30,29000,187,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+448000,1416,31,27800,251,5,1,1.5,9,hot air,gas,public/commercial,No,No,No
+291000,526,21,18300,122,2,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+325000,2266,38,34800,155,3,1,1.5,8,hot air,gas,public/commercial,No,No,No
+169000,809,55,7700,112,2,0,1,4,hot air,oil,septic,No,No,No
+8000,1174,4,35800,158,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+495000,2024,40,29000,247,5,1,3.5,12,hot water/steam,gas,public/commercial,No,No,No
+593000,3116,16,74400,285,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,Yes
+282000,364,25,17600,120,2,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+234000,890,23,15400,94,3,0,2,5,electric,electric,public/commercial,No,No,No
+442000,2873,35,35100,215,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+415000,1336,31,26500,188,3,1,2.5,7,hot air,gas,public/commercial,No,No,No
+389000,4047,18,31800,131,3,0,1,6,hot air,gas,none,No,No,Yes
+522000,931,13,34100,166,3,0,1,8,hot air,gas,septic,No,No,Yes
+450000,445,15,42000,186,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+368000,2469,36,35100,166,4,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+485000,1862,11,27400,206,4,1,2.5,10,hot air,oil,public/commercial,No,No,Yes
+368000,5180,84,34600,174,4,0,1,7,electric,oil,septic,No,No,Yes
+391000,2873,36,35100,168,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+426000,1902,41,27800,178,3,1,2.5,5,hot water/steam,gas,public/commercial,No,No,No
+347000,1700,28,30900,152,3,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+591000,7811,16,131500,356,3,2,4,12,hot air,gas,septic,No,No,Yes
+339000,1943,32,33600,111,3,0,1.5,5,hot air,gas,public/commercial,No,No,No
+446000,1700,30,23200,210,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,Yes
+372000,1943,39,25400,157,3,1,2,6,hot water/steam,gas,public/commercial,No,No,Yes
+282000,486,19,18200,114,2,1,2,6,hot water/steam,gas,public/commercial,No,No,Yes
+215000,5990,57,36000,119,3,1,1,7,hot air,gas,septic,No,No,No
+137000,1336,77,33500,62,1,0,1,2,hot air,oil,septic,No,No,No
+585000,1862,17,60500,257,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,Yes
+364000,1295,38,42500,145,3,1,1,4,hot air,gas,septic,No,No,No
+288000,3723,11,36100,126,3,0,2,5,electric,electric,septic,No,No,No
+421000,1862,37,27400,179,5,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+497000,1376,6,36000,180,3,1,2.5,7,hot air,gas,public/commercial,No,No,No
+297000,931,30,19300,116,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+301000,1133,27,19600,147,3,0,2.5,4,hot water/steam,gas,public/commercial,No,No,No
+274000,283,30,16800,132,3,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+368000,1174,4,35800,158,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+563000,3116,15,38700,256,4,1,3.5,8,hot air,gas,public/commercial,No,No,Yes
+388000,1336,18,35500,167,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+407000,2671,36,35300,160,3,0,1.5,8,electric,electric,septic,No,No,No
+617000,4047,15,83600,250,3,1,3.5,8,hot air,gas,public/commercial,No,No,Yes
+378000,1578,29,24600,161,4,1,2.5,7,hot water/steam,oil,public/commercial,No,No,No
+434000,1255,32,25100,187,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+438000,1700,36,30900,191,4,1,1.5,9,hot air,gas,public/commercial,No,No,No
+223000,1862,36,32700,162,4,0,1.5,6,hot air,gas,public/commercial,No,No,No
+366000,567,13,18400,126,2,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+456000,2024,30,29000,210,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+493000,1416,33,35300,239,3,1,2.5,11,hot air,gas,septic,No,No,No
+187000,607,18,18500,86,2,1,1,7,electric,electric,public/commercial,No,No,No
+343000,1295,21,35000,186,3,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+229000,688,21,11900,86,2,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+178000,1943,42,15800,143,4,0,1,7,hot air,oil,septic,No,No,No
+467000,3116,44,47000,161,3,1,2,9,hot air,oil,septic,No,No,Yes
+187000,3845,50,36800,140,3,1,1,5,hot water/steam,oil,septic,No,No,No
+825000,2145,10,65800,235,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+272000,243,19,16400,138,3,1,1.5,4,electric,electric,public/commercial,No,No,Yes
+330000,1862,36,32700,179,4,1,1.5,9,hot air,gas,public/commercial,No,No,Yes
+222000,728,20,12600,113,2,1,1.5,5,hot air,gas,public/commercial,No,No,No
+471000,1902,33,33200,258,5,2,3,12,hot air,gas,public/commercial,No,No,Yes
+623000,1902,6,16500,239,4,0,2.5,12,hot air,gas,public/commercial,No,No,No
+224000,769,21,18900,88,2,0,1,3,electric,electric,public/commercial,No,No,No
+811000,7366,19,130700,271,4,1,3.5,10,hot air,gas,public/commercial,No,No,Yes
+215000,850,19,14700,138,3,0,1.5,7,electric,electric,public/commercial,No,No,Yes
+378000,1700,32,29400,178,3,1,1.5,5,hot air,gas,public/commercial,No,No,No
+320000,1457,27,37000,126,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+554000,1983,4,36900,214,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+285000,850,19,19100,115,2,1,2,6,electric,electric,public/commercial,No,No,Yes
+259000,364,18,17600,138,3,0,1.5,6,electric,electric,public/commercial,No,No,Yes
+397000,1174,27,33000,155,4,1,2,5,hot air,gas,public/commercial,No,No,Yes
+538000,1619,6,12000,203,3,1,2.5,10,hot air,gas,public/commercial,No,No,No
+220000,931,18,19300,86,2,1,1,7,electric,electric,public/commercial,No,No,No
+330000,4047,19,49300,113,3,0,2,5,electric,electric,public/commercial,No,No,No
+259000,364,18,17600,138,3,0,1.5,8,electric,electric,public/commercial,No,No,Yes
+247000,324,21,17200,128,2,1,1.5,3,electric,electric,public/commercial,No,No,No
+507000,1902,22,61300,186,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+234000,283,15,1800,138,2,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+240000,243,15,1600,138,3,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+328000,1012,11,8300,135,3,0,1,8,hot air,gas,public/commercial,No,No,Yes
+568000,2914,5,27200,176,3,1,2.5,9,hot air,gas,septic,No,No,No
+307000,3723,28,8700,103,3,0,1,8,hot air,oil,septic,No,No,No
+215000,769,16,3400,138,2,1,1.5,6,hot air,gas,public/commercial,No,No,No
+213000,283,15,1800,138,2,1,2.5,3,hot air,electric,public/commercial,No,No,Yes
+307000,1416,27,7900,171,3,0,2,5,hot water/steam,gas,septic,No,No,Yes
+225000,3966,96,16100,142,4,0,2,7,hot water/steam,oil,public/commercial,No,No,No
+792000,11817,1,20000,252,3,1,2.5,10,hot air,gas,septic,No,No,Yes
+272000,4007,10,9900,95,3,0,2,5,hot air,oil,septic,No,No,Yes
+583000,16188,20,14000,205,4,1,2,10,hot water/steam,gas,septic,No,No,No
+286000,1862,18,7800,127,3,0,1,7,electric,electric,septic,No,No,No
+378000,3238,28,18000,231,4,1,2.5,7,hot air,gas,septic,No,No,No
+514000,1862,7,18400,173,3,0,2.5,8,hot air,gas,public/commercial,No,No,No
+603000,1862,10,18400,295,4,0,4,12,hot air,gas,septic,No,No,Yes
+722000,2995,17,23000,274,5,1,2.5,12,hot air,gas,septic,No,No,Yes
+215000,1862,23,7800,89,3,0,1,4,hot air,gas,septic,No,No,No
+653000,3319,15,15000,292,4,1,2.5,11,hot air,gas,septic,No,No,No
+263000,1862,32,11500,155,4,1,2,9,hot air,oil,septic,No,No,No
+221000,283,77,14100,66,2,1,1,7,hot air,oil,septic,No,No,No
+373000,3197,17,17900,149,3,1,2,8,hot air,oil,septic,No,No,Yes
+333000,4047,13,4000,145,3,1,2,4,hot air,gas,septic,No,No,Yes
+320000,2550,14,5500,114,3,0,1.5,7,hot air,gas,septic,No,No,No
+239000,850,77,3500,128,3,0,1,7,hot air,gas,public/commercial,No,No,No
+444000,1659,41,25400,215,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+152000,40,14,1200,89,2,0,1.5,6,hot water/steam,gas,public/commercial,No,No,No
+456000,5180,16,50000,89,3,0,1,8,electric,electric,septic,No,No,No
+426000,6637,52,25700,169,4,2,2.5,7,hot water/steam,gas,septic,No,No,No
+232000,1336,95,2500,152,3,0,2,4,hot water/steam,oil,septic,No,No,No
+368000,364,90,5900,148,2,0,2,3,hot air,gas,public/commercial,No,No,No
+261000,4816,16,17900,120,3,0,2,5,hot water/steam,oil,septic,No,No,No
+303000,1619,11,300,145,3,0,1.5,7,hot air,gas,septic,No,No,No
+326000,3642,46,7400,135,4,1,1.5,7,hot air,oil,septic,No,No,No
+301000,4047,40,17000,155,3,1,2,8,hot water/steam,oil,septic,No,No,No
+403000,405,18,16200,202,3,1,2.5,10,electric,electric,septic,No,No,Yes
+320000,81,9,20000,132,3,0,1,8,hot air,gas,septic,No,No,No
+263000,728,71,3100,134,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+359000,3076,4,18100,94,3,0,1.5,5,hot air,gas,septic,No,No,No
+540000,1862,0,15200,274,4,1,2.5,10,hot air,gas,public/commercial,No,Yes,No
+344000,2388,11,16700,154,3,0,1.5,5,hot air,oil,septic,No,No,No
+475000,3683,105,13200,179,3,0,1.5,7,hot air,oil,septic,No,No,No
+263000,4047,11,16000,89,3,0,1,5,hot air,gas,septic,No,No,No
+335000,1862,28,15700,168,3,1,1.5,7,electric,electric,septic,No,No,No
+600000,931,1,72300,243,4,1,2.5,8,hot air,gas,septic,No,No,No
+354000,4856,42,17900,104,2,0,1.5,6,hot air,oil,septic,No,No,No
+359000,4047,52,19200,200,2,1,1.5,7,hot water/steam,oil,septic,No,No,No
+249000,3521,36,17400,81,2,2,1.5,3,hot air,oil,septic,No,No,No
+426000,3197,26,16100,195,4,1,2.5,10,electric,electric,septic,No,No,No
+441000,4047,15,12100,165,3,1,1.5,5,hot air,oil,septic,No,No,No
+712000,19587,3,21500,186,3,1,3,8,hot water/steam,gas,septic,No,No,Yes
+187000,648,165,7200,164,3,0,1,5,hot air,gas,public/commercial,No,No,No
+307000,4047,10,16200,94,3,0,1,7,hot air,gas,septic,No,No,No
+409000,1174,5,7400,211,4,0,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+244000,1255,85,3400,144,3,0,1.5,8,hot air,oil,public/commercial,No,No,No
+234000,1578,3,15000,151,3,0,2,4,hot air,gas,public/commercial,No,No,No
+651000,4249,40,49800,243,4,2,2.5,8,hot air,gas,septic,No,No,Yes
+200000,4047,15,24500,100,3,0,2,4,electric,electric,septic,No,No,No
+722000,1214,76,38300,106,3,0,2,5,hot air,gas,public/commercial,Yes,No,Yes
+225000,2428,34,2700,107,3,0,1,5,hot air,gas,septic,No,No,No
+263000,22339,20,5900,98,2,0,1,7,electric,electric,septic,No,No,No
+349000,1943,2,13400,117,3,0,2,8,electric,gas,septic,No,No,No
+244000,607,25,7200,87,2,1,1.5,3,hot water/steam,gas,public/commercial,No,No,No
+101000,162,30,1400,106,3,0,1.5,5,electric,electric,public/commercial,No,No,No
+142000,40,14,1200,89,2,0,1.5,3,hot water/steam,gas,public/commercial,No,No,No
+273000,1012,6,15000,98,2,0,1.5,4,hot air,gas,public/commercial,No,No,No
+310000,4047,29,23000,71,2,0,1,6,electric,electric,septic,No,No,No
+451000,8094,14,38900,190,4,1,2.5,10,hot air,oil,septic,No,No,No
+323000,1174,7,1100,111,2,1,2,3,hot air,gas,public/commercial,No,No,No
+391000,4047,27,5000,226,4,0,1,9,electric,electric,septic,No,No,Yes
+244000,1659,35,1300,85,3,0,1,7,hot water/steam,oil,septic,No,No,No
+397000,3602,46,4500,253,4,1,1.5,11,hot air,oil,septic,No,No,Yes
+489000,1862,0,11100,220,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+282000,4047,15,5000,134,3,0,1,4,hot water/steam,oil,septic,No,No,No
+382000,1093,27,4600,162,3,0,1,7,hot air,oil,public/commercial,No,No,No
+339000,567,105,600,212,4,0,1.5,10,hot water/steam,oil,public/commercial,No,No,No
+163000,1700,130,1700,161,3,0,2,5,hot water/steam,oil,public/commercial,No,No,No
+198000,2995,95,2700,82,1,0,1,2,hot air,oil,septic,No,No,No
+172000,405,145,600,93,2,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+368000,7001,34,11500,121,3,0,1,5,hot water/steam,oil,septic,No,No,No
+426000,1902,14,16400,214,3,1,2.5,9,electric,electric,septic,No,No,No
+563000,2509,13,28500,193,3,1,2.5,9,hot air,gas,septic,No,No,No
+337000,1376,51,19000,137,4,0,1,5,hot air,oil,septic,No,No,No
+320000,1376,50,19000,118,3,1,1.5,5,hot water/steam,gas,septic,No,No,No
+633000,13274,11,39900,177,3,1,2.5,9,hot air,oil,septic,No,No,Yes
+384000,1902,53,23700,144,3,0,1.5,8,hot water/steam,oil,septic,No,No,No
+722000,8094,35,36600,206,4,1,1.5,8,electric,electric,septic,No,No,No
+544000,1214,0,35800,221,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+345000,1659,33,13500,159,3,1,1.5,7,hot air,oil,septic,No,No,Yes
+1167000,4007,1,5000,247,4,1,3.5,8,hot air,gas,public/commercial,No,No,Yes
+489000,1174,5,25000,138,3,0,3,5,hot water/steam,oil,septic,No,No,Yes
+407000,8215,30,10200,142,3,1,1.5,8,electric,electric,septic,No,No,No
+514000,2469,21,16100,231,4,1,2.5,11,hot air,gas,septic,No,No,Yes
+397000,1862,25,13800,178,3,0,2,8,hot air,gas,septic,No,No,No
+178000,2064,47,14600,118,3,0,1,7,hot water/steam,oil,public/commercial,No,No,No
+288000,688,19,15200,131,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+270000,607,18,15100,129,2,0,1.5,6,electric,electric,public/commercial,No,No,No
+403000,1821,16,25000,121,3,0,1.5,4,hot air,gas,septic,No,No,No
+674000,3521,0,108900,303,4,1,2.5,10,hot air,gas,public/commercial,No,Yes,No
+307000,324,9,1000,143,3,0,1.5,7,hot air,gas,septic,No,No,Yes
+312000,2347,14,19000,152,4,1,1.5,9,hot air,oil,none,No,No,No
+359000,1659,15,18700,181,3,1,1.5,7,hot air,gas,septic,No,No,No
+372000,1862,19,18800,156,3,1,2,7,hot air,gas,septic,No,No,No
+263000,1902,12,10700,97,3,0,1,5,hot air,gas,septic,No,No,Yes
+380000,40,13,1000,167,3,1,2.5,7,hot air,gas,septic,No,No,Yes
+137000,567,85,7800,130,3,1,1.5,6,hot air,oil,septic,No,No,No
+605000,1902,5,20400,175,2,1,2,7,hot water/steam,oil,septic,Yes,No,No
+289000,2469,1,19500,98,3,0,2,4,hot water/steam,oil,septic,No,No,No
+330000,648,38,54900,148,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+234000,202,125,45000,134,4,0,1,5,hot water/steam,oil,public/commercial,No,No,No
+272000,1538,34,57800,155,4,1,1.5,5,hot air,gas,public/commercial,No,No,No
+313000,1012,35,50000,121,3,0,2,4,hot air,gas,public/commercial,No,No,No
+274000,1497,33,57200,115,3,1,1,7,hot air,gas,public/commercial,No,No,Yes
+178000,1255,85,64400,78,2,0,1,3,hot water/steam,oil,public/commercial,No,No,No
+1280000,769,55,103000,73,2,0,1.5,6,hot air,gas,public/commercial,No,No,No
+453000,1174,3,64400,161,3,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+495000,728,140,56700,155,3,0,1,8,hot air,gas,public/commercial,No,No,No
+762000,971,4,75400,188,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+510000,324,46,183300,207,4,1,2,9,hot air,gas,septic,No,No,No
+475000,688,115,53700,95,2,0,1,6,hot air,gas,public/commercial,No,No,No
+407000,526,17,51400,120,2,0,1.5,4,electric,electric,public/commercial,No,No,Yes
+1527000,1943,31,72600,369,5,4,3.5,12,hot air,gas,public/commercial,No,No,Yes
+432000,567,129,93000,158,4,0,1,9,hot water/steam,gas,public/commercial,No,No,No
+401000,1943,27,57800,199,4,0,1,9,hot water/steam,gas,public/commercial,No,No,No
+456000,121,5,27000,133,2,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+289000,971,35,49100,87,3,0,1,8,hot air,gas,public/commercial,No,No,Yes
+1423000,850,3,70600,240,4,1,3,10,hot air,gas,public/commercial,No,No,Yes
+501000,648,6,36800,128,3,1,2,5,hot air,gas,public/commercial,No,No,No
+289000,1133,33,51800,118,3,0,1,6,hot air,gas,public/commercial,No,No,No
+282000,1214,33,53000,127,3,1,2,8,hot air,gas,public/commercial,No,No,Yes
+653000,1174,18,46400,197,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+301000,1214,34,53000,119,2,0,1,5,hot air,gas,public/commercial,No,No,No
+339000,2145,35,66500,103,2,0,1,3,hot air,gas,public/commercial,No,No,Yes
+418000,1133,41,64000,102,3,1,1,4,hot water/steam,gas,public/commercial,No,No,No
+802000,445,121,87000,209,4,0,2,10,hot water/steam,gas,public/commercial,No,No,No
+407000,728,53,101000,107,4,0,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+1208000,2145,23,225800,302,3,2,2.5,10,hot air,gas,public/commercial,No,No,No
+485000,1416,18,50000,179,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+682000,2024,0,65000,180,3,1,2,7,hot air,gas,public/commercial,No,No,No
+712000,567,4,112100,151,3,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+569000,890,50,72000,153,3,0,1,4,hot water/steam,gas,public/commercial,No,No,No
+320000,688,39,55800,97,5,0,1.5,6,hot air,gas,public/commercial,No,No,No
+485000,21651,37,137800,156,4,0,2,8,hot air,oil,septic,No,No,Yes
+505000,1336,16,48800,185,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+933000,971,17,60200,177,4,1,3.5,9,hot air,gas,public/commercial,No,No,Yes
+368000,2307,85,62500,90,3,0,1,4,hot air,oil,public/commercial,No,No,No
+696000,121,19,27000,169,2,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+320000,1214,32,53000,155,3,0,1,7,hot air,gas,public/commercial,No,No,No
+374000,162,19,25600,113,2,1,2,4,hot air,gas,public/commercial,No,No,Yes
+310000,648,33,54900,145,3,0,2,7,hot air,gas,public/commercial,No,No,Yes
+712000,1255,32,143200,256,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+291000,1012,35,50000,87,3,0,1,4,hot air,gas,public/commercial,No,No,No
+426000,567,95,50800,150,4,0,1.5,9,hot air,gas,public/commercial,No,No,No
+712000,486,69,195000,135,3,1,2,5,hot water/steam,gas,public/commercial,No,No,No
+804000,1255,5,80600,178,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+403000,1133,31,80800,147,3,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+306000,1093,34,51200,179,3,1,1,5,hot air,gas,public/commercial,No,No,Yes
+470000,850,80,115000,107,4,0,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+1269000,1376,3,82400,351,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+722000,162,18,36000,156,2,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+396000,850,33,107000,85,3,0,1,4,hot air,gas,public/commercial,No,No,No
+404000,688,115,55800,140,3,0,1,8,hot water/steam,gas,public/commercial,No,No,No
+318000,648,35,54900,80,2,0,1,6,hot air,gas,public/commercial,No,No,Yes
+417000,1862,35,62600,149,4,0,2,6,hot air,gas,public/commercial,No,No,Yes
+583000,283,15,48200,162,3,1,2.5,5,hot air,gas,public/commercial,No,No,Yes
+1286000,2792,3,101500,298,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+374000,243,16,45800,120,2,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+712000,121,19,27000,177,2,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+109000,4047,25,24700,261,3,0,1,11,hot air,oil,septic,No,No,No
+378000,769,18,7300,147,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+149000,809,135,7300,104,3,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+525000,4411,8,23000,163,3,2,2,6,hot air,gas,septic,No,No,Yes
+333000,81,32,22500,163,3,0,1.5,5,electric,electric,septic,No,No,No
+1108000,4047,14,128500,203,3,0,2.5,10,hot air,gas,none,No,No,Yes
+307000,1012,35,50000,167,2,0,1,5,hot air,gas,public/commercial,No,No,No
+671000,1862,30,56600,229,5,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+442000,809,50,70000,120,5,0,2,10,hot water/steam,gas,public/commercial,No,No,No
+333000,648,35,97000,124,3,0,1,8,hot air,gas,public/commercial,No,No,Yes
+404000,688,5,37600,109,2,1,2.5,4,hot air,gas,public/commercial,No,No,No
+422000,2226,53,73400,110,3,0,1,4,hot air,gas,public/commercial,No,No,No
+712000,2024,19,59000,225,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+762000,364,125,83000,170,3,0,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+683000,1376,41,80000,202,4,1,2.5,8,electric,electric,septic,No,No,Yes
+787000,1578,4,85400,186,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+502000,728,10,38400,125,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+564000,526,52,63000,112,3,0,1,6,hot air,gas,public/commercial,No,No,No
+727000,769,2,57600,209,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+347000,1214,31,53000,148,3,1,1.5,7,hot air,gas,public/commercial,No,No,No
+554000,1578,17,52400,170,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+407000,40,37,182600,102,2,1,1.5,5,hot water/steam,gas,septic,No,No,No
+413000,486,110,89000,136,2,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+760000,1012,152,115000,198,3,1,1.5,10,hot water/steam,gas,public/commercial,No,No,No
+309000,971,30,49100,127,3,0,1,5,hot air,gas,public/commercial,No,No,No
+658000,607,1,36000,205,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+873000,1012,23,61000,215,2,1,3,8,hot air,gas,public/commercial,No,No,Yes
+465000,162,12,25600,165,3,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+465000,202,8,32000,172,3,0,2.5,9,electric,electric,public/commercial,No,No,Yes
+495000,1295,42,144900,102,2,0,2,4,hot air,gas,public/commercial,No,No,Yes
+1310000,445,121,87000,209,4,0,2,8,hot water/steam,gas,public/commercial,No,No,No
+359000,445,19,49800,122,3,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+683000,526,4,110200,129,3,0,2.5,4,hot air,gas,public/commercial,No,No,Yes
+320000,1619,33,59000,104,4,0,1.5,8,hot air,gas,public/commercial,No,No,Yes
+304000,405,115,49500,76,2,0,1,4,hot air,gas,public/commercial,No,No,No
+349000,1943,27,31700,174,4,1,2.5,8,hot air,gas,septic,No,No,No
+331000,3035,8,20500,116,3,0,2,5,hot air,electric,public/commercial,No,No,Yes
+843000,769,3,97300,158,2,0,2,4,hot water/steam,gas,septic,Yes,No,No
+310000,2064,57,13300,125,2,1,1,4,hot water/steam,oil,septic,No,No,No
+407000,2550,20,17700,148,3,1,2,6,hot water/steam,gas,septic,No,No,No
+123000,364,57,1000,82,3,0,1,7,hot air,gas,public/commercial,No,No,No
+113000,526,137,700,76,2,0,1,3,hot air,gas,septic,No,No,No
+230000,769,71,3200,67,2,0,1,5,hot air,gas,public/commercial,No,No,No
+282000,2307,28,2600,191,3,0,1,5,electric,electric,septic,No,No,No
+476000,3723,11,2600,148,2,1,2,6,hot air,oil,septic,No,No,Yes
+246000,1416,39,1600,112,3,0,1,6,electric,electric,septic,No,No,No
+376000,3480,16,4300,187,3,0,1.5,5,hot water/steam,oil,septic,No,No,No
+368000,3238,6,2000,118,3,1,2,6,hot air,gas,septic,No,No,No
+297000,1457,40,3600,89,3,0,1,5,hot air,oil,septic,No,No,No
+271000,1781,47,4000,98,3,0,1,6,hot air,gas,septic,No,No,Yes
+436000,1012,12,5200,169,3,0,3.5,8,hot air,oil,septic,No,No,Yes
+485000,2631,27,16500,231,4,1,2.5,7,hot air,gas,septic,No,No,No
+388000,1862,27,13800,176,3,0,2.5,9,hot air,gas,septic,No,No,Yes
+291000,2833,84,4600,118,4,1,1,6,hot water/steam,oil,septic,No,No,No
+386000,2226,14,3000,160,4,0,2,6,hot air,oil,septic,No,No,Yes
+244000,1416,22,12000,124,2,1,1.5,4,electric,electric,septic,No,No,Yes
+368000,3885,45,8700,129,3,0,1,5,hot air,gas,septic,No,No,No
+828000,2185,1,20400,218,4,0,2.5,10,hot air,gas,septic,No,No,Yes
+359000,1902,19,14100,137,3,0,1.5,7,hot air,gas,septic,No,No,No
+301000,2104,16,5500,116,3,0,2,6,electric,electric,septic,No,No,No
+364000,607,16,10000,179,4,1,2.5,10,electric,electric,septic,No,Yes,Yes
+405000,2631,2,4000,190,4,0,2.5,8,hot air,oil,septic,No,No,No
+823000,5423,15,75700,246,3,1,3,7,electric,electric,septic,Yes,No,No
+215000,688,105,4100,140,3,0,1,6,hot air,oil,septic,No,No,No
+710000,2145,1,233000,294,4,1,2.5,10,hot air,gas,public/commercial,No,Yes,Yes
+337000,567,18,19600,125,2,1,1.5,4,hot air,gas,public/commercial,No,No,Yes
+394000,1862,17,36600,146,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+282000,364,18,20500,118,3,1,1.5,4,electric,electric,public/commercial,No,No,Yes
+362000,1659,14,26700,122,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+747000,1943,11,47400,288,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+426000,1781,7,24200,124,3,1,2.5,8,hot air,gas,public/commercial,No,No,No
+542000,1700,14,28500,238,4,1,2.5,12,hot water/steam,oil,septic,No,No,No
+349000,486,17,16800,125,2,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+757000,1862,1,3200,302,4,1,3,12,hot air,gas,public/commercial,No,Yes,Yes
+741000,1416,1,233000,287,3,1,2.5,8,hot air,gas,public/commercial,No,Yes,Yes
+244000,2671,155,25200,100,2,1,1,3,hot water/steam,oil,septic,No,No,No
+318000,526,16,18200,104,2,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+1014000,1862,1,70100,267,5,1,3.5,12,hot air,gas,public/commercial,No,No,Yes
+244000,40,19,9900,119,2,0,2.5,3,electric,electric,public/commercial,No,No,Yes
+786000,2509,9,57800,270,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+341000,324,18,20400,141,2,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+871000,2347,1,233000,268,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,Yes
+673000,2792,3,43700,236,4,1,2,11,hot air,gas,public/commercial,No,No,Yes
+341000,1416,37,23500,98,3,0,1,4,hot water/steam,gas,public/commercial,No,No,No
+362000,567,16,19600,121,2,1,1.5,6,hot air,gas,public/commercial,No,No,No
+330000,526,18,20900,141,2,1,1.5,3,electric,electric,public/commercial,No,No,Yes
+326000,1902,27,32000,124,3,1,2,7,hot air,oil,public/commercial,No,No,No
+573000,1336,10,35400,220,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+489000,1862,8,25100,142,3,0,2.5,4,hot air,gas,public/commercial,No,No,Yes
+417000,3602,27,30900,173,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+768000,1983,0,233000,309,4,1,2.5,12,hot air,gas,public/commercial,No,Yes,Yes
+739000,1862,14,36600,207,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+796000,526,6,46500,255,4,1,2.5,11,hot air,gas,public/commercial,No,No,Yes
+782000,2024,9,37800,278,5,1,2.5,11,hot air,gas,public/commercial,No,No,No
+310000,1416,17,37000,154,3,1,1.5,8,hot air,gas,public/commercial,No,No,Yes
+554000,40,9,28400,164,3,1,2.5,5,hot air,gas,public/commercial,No,No,No
+399000,1538,39,25000,158,4,1,1.5,8,hot air,gas,public/commercial,No,No,No
+410000,1497,38,24500,156,3,1,1.5,4,hot water/steam,gas,public/commercial,No,No,No
+368000,850,17,28800,110,2,1,1.5,4,hot air,gas,public/commercial,No,No,Yes
+889000,2590,3,153800,268,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+266000,81,20,14900,119,2,0,2.5,3,electric,electric,public/commercial,No,No,Yes
+417000,971,18,29500,148,3,1,2,4,hot air,gas,public/commercial,No,No,Yes
+291000,648,21,15100,110,3,0,2,4,electric,electric,public/commercial,No,No,No
+515000,1862,1,108900,255,4,1,3,8,hot air,gas,public/commercial,No,Yes,Yes
+594000,1862,1,108900,249,4,1,2.5,11,hot air,gas,public/commercial,No,Yes,Yes
+611000,1416,1,108900,231,3,1,2.5,10,hot air,gas,public/commercial,No,Yes,No
+306000,3723,19,25000,110,3,0,1,4,hot air,oil,septic,No,No,No
+510000,1214,1,108900,220,4,1,3,7,hot air,gas,public/commercial,No,Yes,Yes
+325000,1255,19,27000,140,3,1,1.5,4,hot air,gas,public/commercial,No,No,No
+230000,4047,50,20500,74,2,0,1,4,hot water/steam,oil,septic,No,No,No
+597000,1781,1,108900,306,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+262000,607,18,15100,156,2,0,2,5,electric,gas,public/commercial,No,No,No
+485000,1336,7,26000,186,4,0,2.5,7,hot air,gas,public/commercial,No,No,No
+454000,1336,18,27000,145,3,1,1.5,4,electric,electric,public/commercial,No,No,No
+540000,1619,1,108900,263,4,1,3,9,hot air,gas,public/commercial,No,Yes,Yes
+289000,648,18,15100,148,3,0,1.5,8,electric,electric,public/commercial,No,No,No
+305000,648,18,15100,110,3,0,2,8,electric,electric,public/commercial,No,No,No
+659000,688,14,10200,159,2,1,2,4,hot air,oil,public/commercial,No,No,Yes
+253000,688,26,15200,119,2,1,2,6,hot air,electric,public/commercial,No,No,Yes
+263000,607,20,15100,110,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+273000,688,21,15800,84,2,0,1,5,electric,electric,public/commercial,No,No,No
+426000,3845,15,32800,150,3,1,2,6,hot water/steam,gas,septic,No,No,No
+267000,648,19,15700,85,2,1,1.5,3,electric,electric,public/commercial,No,No,No
+413000,1336,17,27000,140,3,1,1.5,6,electric,electric,public/commercial,No,No,No
+306000,648,18,15100,139,3,0,2.5,6,electric,electric,public/commercial,No,No,No
+562000,405,25,6000,81,3,1,1,5,electric,electric,public/commercial,No,No,No
+438000,2388,33,26400,146,4,1,2.5,6,hot water/steam,gas,public/commercial,No,No,No
+266000,971,115,7200,114,3,1,1,5,hot air,gas,public/commercial,No,No,No
+573000,2145,13,31300,232,3,1,2.5,7,hot air,gas,septic,No,No,No
+280000,688,21,15800,85,2,0,1.5,7,electric,electric,public/commercial,No,No,No
+270000,607,20,15700,92,2,0,1,7,electric,electric,public/commercial,No,No,No
+564000,2185,1,108900,257,4,1,3,9,hot air,gas,septic,No,Yes,No
+520000,2590,33,26500,244,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+372000,1902,28,24600,114,2,0,1,6,electric,electric,public/commercial,No,No,No
+620000,1983,1,108900,292,4,1,2.5,10,hot air,gas,public/commercial,No,Yes,Yes
+339000,1821,16,25000,109,3,1,1,5,hot air,gas,septic,No,No,No
+230000,688,21,15800,84,2,0,1,3,electric,electric,public/commercial,No,No,No
+633000,3723,16,32700,211,4,1,2.5,10,hot water/steam,gas,septic,No,No,Yes
+270000,648,18,15700,84,2,0,1,4,electric,gas,public/commercial,No,No,No
+426000,1740,16,25000,143,3,0,1.5,6,hot air,gas,septic,No,No,No
+397000,1983,28,24900,111,4,1,2,7,hot air,gas,public/commercial,No,No,No
+471000,1821,16,25000,166,3,1,1.5,9,hot air,gas,septic,No,No,No
+572000,1376,1,108900,248,4,1,3,8,hot air,gas,public/commercial,No,Yes,No
+411000,1376,26,27000,147,3,1,1.5,5,hot air,gas,public/commercial,No,No,No
+301000,607,18,15100,148,3,0,1.5,7,electric,electric,public/commercial,No,No,No
+514000,1497,14,31200,187,4,1,2.5,8,hot air,gas,septic,No,No,Yes
+613000,1093,105,56500,129,2,1,1,4,electric,electric,public/commercial,Yes,No,No
+774000,4371,15,21100,245,4,3,2.5,8,hot air,gas,septic,No,No,Yes
+426000,1255,19,27000,154,3,1,1.5,6,electric,electric,public/commercial,No,No,No
+225000,162,130,2400,141,3,0,1,8,hot air,gas,public/commercial,No,No,No
+268000,1659,84,18200,110,3,1,1.5,8,hot air,oil,public/commercial,No,No,No
+522000,1781,9,26000,171,3,0,2.5,8,hot air,gas,public/commercial,No,No,Yes
+465000,2509,14,31600,142,2,1,2,6,hot air,gas,septic,No,No,Yes
+593000,1497,0,108900,252,4,1,3,10,hot air,gas,public/commercial,No,Yes,No
+303000,648,21,15100,110,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+272000,3035,14,3700,104,3,0,1.5,6,hot air,oil,septic,No,No,No
+240000,607,15,2500,94,3,0,1,4,hot air,gas,public/commercial,No,No,No
+282000,1497,18,2500,94,3,0,1,7,electric,electric,septic,No,No,No
+407000,1659,57,4800,193,3,1,2,7,hot air,oil,septic,No,No,No
+424000,6516,26,4500,146,3,0,1.5,4,electric,electric,septic,No,No,No
+324000,2550,34,5000,174,4,0,1.5,9,hot water/steam,oil,septic,No,No,No
+215000,445,50,1300,71,2,0,1,6,hot air,gas,public/commercial,No,No,No
+359000,1174,3,3800,144,3,1,2.5,5,hot air,gas,septic,No,No,No
+594000,4047,1,3400,217,4,1,2.5,8,hot air,gas,septic,No,No,No
+247000,1457,48,3600,89,2,0,1,3,hot air,gas,septic,No,No,No
+418000,1457,19,13000,160,3,0,1.5,9,electric,electric,public/commercial,No,No,No
+378000,1376,20,13000,134,3,0,1.5,8,electric,electric,public/commercial,No,No,No
+348000,1376,19,13000,140,3,0,2,8,hot air,oil,public/commercial,No,No,Yes
+710000,2914,21,26000,281,4,1,2.5,11,electric,electric,public/commercial,No,No,No
+601000,1416,12,13000,182,4,0,2.5,8,hot water/steam,gas,septic,No,No,No
+552000,1578,11,13000,196,3,1,2.5,10,hot water/steam,gas,septic,No,No,No
+844000,1538,0,13000,271,4,1,3,10,hot air,gas,septic,No,No,Yes
+230000,648,21,15700,85,2,1,1.5,4,electric,electric,public/commercial,No,No,No
+445000,1497,1,108900,209,3,1,2.5,10,hot air,gas,public/commercial,No,Yes,No
+256000,607,18,15100,112,2,0,1.5,4,electric,electric,public/commercial,No,No,No
+398000,1376,19,27000,242,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+604000,3278,1,108900,232,3,1,2.5,9,hot air,gas,public/commercial,No,Yes,No
+511000,1214,1,108900,249,4,0,2.5,11,hot air,gas,public/commercial,No,Yes,No
+478000,1416,1,108900,211,3,1,2.5,6,hot air,gas,public/commercial,No,Yes,No
+475000,1336,17,27000,187,3,1,3,6,electric,electric,public/commercial,No,No,No
+223000,364,13,6700,86,3,0,1,8,electric,electric,public/commercial,No,No,No
+550000,7851,5,110000,196,3,1,2,9,hot air,gas,septic,No,No,Yes
+266000,607,20,15100,110,3,1,2,4,hot water/steam,gas,public/commercial,No,No,No
+533000,1295,1,108900,244,4,1,3,10,hot air,gas,public/commercial,No,Yes,No
+647000,1578,1,108900,246,4,1,3,9,hot air,gas,public/commercial,No,Yes,No
+424000,2064,25,25000,161,3,1,1.5,8,hot water/steam,gas,public/commercial,No,No,No
+401000,1255,19,27000,154,3,1,1.5,7,electric,electric,public/commercial,No,No,No
+301000,607,22,15100,109,3,1,1.5,6,electric,electric,public/commercial,No,No,No
+270000,607,18,15100,129,2,1,1.5,3,hot air,gas,public/commercial,No,No,No
+272000,728,85,3600,90,2,0,1,4,hot air,oil,septic,No,No,No
+397000,1295,17,27000,140,3,1,1.5,6,hot water/steam,gas,public/commercial,No,No,No
+316000,567,26,15100,149,2,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+272000,688,19,15800,85,2,1,1.5,4,electric,electric,public/commercial,No,No,No
+282000,607,18,15100,105,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+310000,648,18,15100,141,3,1,1.5,5,electric,electric,public/commercial,No,No,No
+441000,1497,19,27000,143,3,0,2,5,hot water/steam,electric,public/commercial,No,No,No
+558000,1821,1,108900,253,4,0,3,9,hot air,gas,public/commercial,No,Yes,No
+647000,1781,1,108900,252,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,Yes
+653000,3561,1,108900,281,4,1,3,11,hot air,gas,public/commercial,No,Yes,Yes
+613000,2024,1,108900,252,4,0,2.5,10,hot air,gas,public/commercial,No,Yes,No
+696000,4047,19,21400,238,4,1,2.5,8,electric,electric,septic,No,No,Yes
+291000,688,21,15200,110,3,0,2,4,electric,electric,public/commercial,No,No,No
+263000,648,21,15700,85,2,1,1.5,3,hot air,gas,public/commercial,No,No,No
+509000,1295,18,27000,206,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+298000,364,25,15100,149,2,1,1.5,3,hot air,gas,public/commercial,No,No,Yes
+601000,1902,1,108900,306,4,1,3,12,hot air,gas,public/commercial,No,Yes,No
+292000,607,20,15100,131,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+458000,1376,20,27000,137,3,1,2,6,hot air,gas,public/commercial,No,No,Yes
+278000,688,57,10200,100,2,0,1,6,hot air,oil,public/commercial,No,No,No
+554000,1943,15,30000,233,5,1,2.5,10,hot air,gas,septic,No,No,No
+289000,648,18,15100,110,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+269000,607,20,15700,85,2,1,1.5,5,electric,electric,public/commercial,No,No,No
+585000,2185,10,30000,197,3,0,2.5,7,hot air,gas,public/commercial,No,No,Yes
+591000,2145,1,108900,311,4,1,3.5,11,hot air,gas,public/commercial,No,Yes,No
+465000,1619,25,27000,209,3,1,2.5,6,hot air,electric,public/commercial,No,No,Yes
+270000,648,21,15700,84,2,0,1,3,electric,electric,public/commercial,No,No,No
+579000,2226,1,108900,252,4,0,3,12,hot air,gas,public/commercial,No,Yes,No
+413000,1336,18,27000,126,3,1,1.5,8,electric,electric,public/commercial,No,No,No
+405000,1902,27,24600,160,3,1,1.5,5,electric,electric,public/commercial,No,No,No
+326000,1943,28,24800,131,3,1,1.5,6,electric,electric,public/commercial,No,No,No
+556000,2266,0,108900,198,4,1,2.5,9,hot air,gas,public/commercial,No,Yes,No
+255000,688,20,15800,85,2,0,1.5,6,electric,electric,public/commercial,No,No,No
+426000,1376,9,30000,132,3,1,1.5,8,electric,electric,public/commercial,No,No,Yes
+475000,1336,10,30000,190,3,0,2,5,hot air,gas,public/commercial,No,No,No
+227000,3440,28,3900,83,2,0,1,4,hot air,oil,septic,No,No,No
+323000,1497,55,4600,128,3,1,1.5,6,hot water/steam,oil,septic,No,No,Yes
+295000,1376,41,3500,89,3,0,1,7,hot air,gas,septic,No,No,No
+201000,567,44,2400,78,2,0,1,4,hot air,gas,public/commercial,No,No,No
+281000,2185,35,5700,169,4,0,1.5,8,hot water/steam,gas,septic,No,No,No
+564000,3723,19,5000,199,3,1,2.5,8,hot air,oil,septic,No,No,Yes
+380000,405,17,5100,150,3,0,2,8,hot air,gas,septic,No,No,No
+479000,3035,6,1700,163,3,0,2.5,7,hot air,gas,septic,No,No,No
+333000,1538,36,3300,161,4,1,1.5,8,hot water/steam,gas,septic,No,No,No
+293000,2388,37,4400,98,3,0,1,6,hot air,gas,septic,No,No,No
+322000,1700,21,12250,120,3,0,1.5,6,electric,electric,public/commercial,No,No,No
+324000,1659,35,7200,77,3,0,1,8,hot air,oil,public/commercial,No,No,No
+673000,1457,0,13000,210,4,1,2.5,8,hot air,gas,septic,No,Yes,Yes
+393000,1943,20,10000,118,3,1,2,4,electric,electric,public/commercial,No,No,No
+498000,2104,18,13000,150,3,0,2.5,4,electric,electric,public/commercial,No,No,No
+534000,1457,13,13000,174,3,1,2.5,9,hot water/steam,gas,septic,No,No,No
+328000,1416,21,36500,145,3,0,1,4,electric,electric,public/commercial,No,No,No
+564000,2266,34,30800,335,6,1,3.5,12,hot water/steam,gas,public/commercial,No,No,No
+389000,1983,41,28600,175,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,Yes
+865000,8094,52,84000,123,3,0,1,7,hot air,oil,public/commercial,No,No,Yes
+371000,1983,30,28600,174,3,1,2.5,6,hot water/steam,gas,public/commercial,No,No,No
+360000,1619,34,30000,155,3,1,0,5,hot air,gas,public/commercial,No,No,No
+349000,2307,35,34900,192,4,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+272000,850,19,19100,106,2,1,1,4,electric,electric,public/commercial,No,No,No
+380000,4047,19,36000,169,3,1,1.5,7,hot air,gas,septic,No,No,Yes
+534000,1295,28,35000,221,4,1,1.5,10,electric,electric,public/commercial,No,No,Yes
+215000,809,24,14000,91,2,0,2,3,electric,electric,public/commercial,No,No,No
+717000,4047,21,116300,268,4,2,2.5,9,hot air,gas,public/commercial,No,No,Yes
+643000,2226,8,19300,231,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+446000,1821,35,32300,172,3,1,1.5,6,hot air,gas,public/commercial,No,No,No
+554000,1983,17,36900,241,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+397000,2550,21,39100,167,3,0,1.5,9,electric,electric,public/commercial,No,No,Yes
+514000,1902,35,27800,241,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+347000,3278,53,21600,113,3,0,1,7,hot water/steam,gas,septic,No,No,No
+284000,364,26,17600,120,2,1,1.5,3,hot air,gas,public/commercial,No,No,Yes
+782000,3197,11,86900,227,4,1,3,11,hot air,gas,septic,No,No,No
+494000,1862,34,27400,221,4,2,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+264000,364,20,17600,138,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+209000,324,22,17200,128,2,0,1.5,4,hot air,gas,public/commercial,No,No,Yes
+494000,1781,40,26600,249,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+397000,1214,32,24500,165,3,1,1.5,6,hot air,gas,public/commercial,No,No,No
+491000,2428,28,28800,239,5,1,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+452000,2307,9,34900,118,2,0,1.5,6,hot air,gas,public/commercial,No,No,No
+374000,1174,30,23900,172,3,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+633000,2469,10,34700,214,4,1,2.5,9,hot air,gas,septic,No,No,Yes
+732000,2024,7,17500,210,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+388000,2388,38,31700,226,4,1,2.5,7,hot water/steam,gas,public/commercial,No,No,No
+280000,567,20,18400,138,3,1,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+282000,688,20,18700,116,2,0,2,6,hot air,gas,public/commercial,No,No,Yes
+301000,688,22,18700,138,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+564000,2833,15,40000,219,4,0,2.5,7,hot air,gas,public/commercial,No,No,No
+446000,1862,33,32700,135,4,1,2,9,hot air,gas,public/commercial,No,No,Yes
+333000,1416,40,27800,193,4,1,1.5,10,hot air,gas,public/commercial,No,No,Yes
+357000,24889,64,73500,182,3,1,1.5,9,hot water/steam,oil,septic,No,No,No
+782000,1781,3,13200,242,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+524000,3440,18,40800,176,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+436000,1902,37,27800,174,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+339000,243,27,16400,117,2,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+305000,850,21,14700,114,3,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+381000,2024,35,34500,182,4,0,2,7,hot air,gas,public/commercial,No,No,Yes
+301000,202,19,16000,138,3,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+426000,1416,42,27800,167,4,1,1.5,9,hot air,gas,septic,No,No,Yes
+436000,2954,34,35700,193,4,1,1.5,6,hot air,gas,public/commercial,No,No,No
+369000,2792,26,27900,155,3,1,1.5,4,hot air,gas,septic,No,No,Yes
+583000,1862,21,27400,221,3,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+310000,243,27,16400,135,3,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+389000,1133,22,32000,167,3,1,1.5,5,electric,electric,public/commercial,No,No,No
+573000,3723,16,35900,213,4,1,2,7,hot water/steam,oil,septic,No,No,No
+980000,688,1,116700,327,4,1,2.5,12,hot air,gas,public/commercial,No,No,No
+407000,1659,39,30500,179,4,0,1.5,9,hot air,gas,public/commercial,No,No,No
+477000,2024,20,29000,210,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+362000,1659,35,30500,155,4,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+432000,1052,30,21900,177,3,1,1.5,5,hot air,gas,public/commercial,No,No,Yes
+253000,243,20,16400,138,2,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+297000,486,20,18200,122,2,1,1.5,5,electric,electric,public/commercial,No,No,No
+326000,688,18,18700,121,2,0,1.5,4,electric,electric,public/commercial,No,No,Yes
+495000,2711,40,34100,215,5,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+873000,2671,9,75800,268,4,1,2.5,11,hot air,gas,public/commercial,No,No,No
+397000,22866,53,69400,181,2,1,1.5,5,hot air,oil,public/commercial,No,No,Yes
+462000,2711,16,39600,150,3,1,1.5,8,hot air,gas,public/commercial,No,No,Yes
+752000,2833,16,35000,261,4,1,3,10,hot water/steam,gas,public/commercial,No,No,Yes
+313000,283,20,16800,138,3,1,1.5,4,electric,electric,public/commercial,No,No,Yes
+501000,1943,27,62000,200,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+304000,243,20,16400,122,2,1,1.5,4,electric,electric,public/commercial,No,No,Yes
+673000,1740,7,39000,217,4,1,2.5,7,hot air,gas,public/commercial,No,No,Yes
+301000,3764,13,38300,126,3,0,1,8,hot air,gas,septic,No,No,No
+564000,324,34,37300,212,5,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+663000,2024,18,63500,201,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+524000,1983,19,62800,194,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+495000,2631,37,33500,238,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+499000,1255,33,25100,191,4,0,1.5,9,hot air,gas,public/commercial,No,No,No
+436000,3076,38,35300,164,3,0,2,5,hot water/steam,gas,public/commercial,No,No,No
+563000,1862,18,60500,232,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+305000,283,26,16800,120,2,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+307000,1619,149,28000,165,3,0,2,8,hot air,oil,septic,No,No,No
+272000,283,21,16800,138,3,0,1.5,6,electric,electric,public/commercial,No,No,No
+475000,1659,21,25400,178,4,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+873000,16997,29,70500,263,3,1,2.5,10,electric,electric,septic,No,No,Yes
+665000,1862,3,16100,236,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+593000,1862,36,27400,240,4,1,2.5,12,hot water/steam,gas,public/commercial,No,No,No
+407000,1619,21,28000,140,3,0,1.5,7,hot air,gas,public/commercial,No,No,No
+289000,567,20,18400,138,3,0,1.5,8,electric,electric,public/commercial,No,No,No
+645000,2307,16,68800,209,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+516000,1902,19,36600,170,3,1,2,5,hot air,gas,public/commercial,No,No,Yes
+581000,1983,19,62800,206,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+401000,1862,31,32700,172,3,0,1.5,7,hot water/steam,gas,septic,No,No,No
+346000,202,19,16000,121,2,0,1.5,6,hot air,gas,public/commercial,No,No,Yes
+603000,2226,33,50300,206,4,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+460000,1376,40,39000,166,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+303000,405,21,18000,138,2,1,1.5,7,electric,electric,public/commercial,No,No,No
+438000,607,37,38800,167,3,0,2,6,hot water/steam,oil,septic,No,No,No
+434000,1214,32,24500,178,4,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+297000,283,21,16800,138,3,1,1.5,8,hot air,gas,public/commercial,No,No,No
+417000,1821,35,32300,163,4,1,1.5,7,hot air,gas,public/commercial,No,No,No
+683000,3683,17,77200,232,4,1,3,7,hot water/steam,gas,public/commercial,No,No,Yes
+527000,2266,34,30800,215,5,1,3,8,hot water/steam,gas,public/commercial,No,No,Yes
+692000,2266,0,37900,274,4,1,2.5,12,hot air,gas,public/commercial,No,No,No
+593000,2428,20,71000,251,4,3,2.5,10,hot air,gas,public/commercial,No,No,Yes
+559000,1214,15,34000,213,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+505000,1700,35,30900,171,4,0,1.5,7,hot air,gas,public/commercial,No,No,Yes
+485000,1700,27,25800,215,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+126000,1336,85,24600,107,3,0,1,6,electric,electric,septic,No,No,No
+425000,1376,22,22600,147,3,0,2,8,hot air,gas,public/commercial,No,No,No
+514000,2185,19,30200,202,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+282000,1174,23,19500,128,2,0,1.5,4,hot air,gas,public/commercial,No,No,No
+418000,1497,27,23800,150,3,1,3,8,hot water/steam,gas,public/commercial,No,No,No
+415000,2185,38,34700,182,4,1,2,10,hot air,gas,public/commercial,No,No,No
+544000,2469,34,32300,254,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+489000,2590,35,33200,237,4,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+603000,1376,3,11900,183,4,1,2.5,8,hot air,gas,public/commercial,No,No,No
+495000,1821,43,27000,238,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+475000,1336,19,35500,167,3,1,1.5,7,electric,gas,public/commercial,No,No,Yes
+402000,1416,40,27800,155,3,1,1,8,hot water/steam,gas,public/commercial,No,No,No
+546000,1983,6,17200,193,4,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+601000,1862,26,48000,241,4,1,2.5,12,hot air,oil,public/commercial,No,No,Yes
+508000,2185,35,30200,212,5,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+416000,1943,45,28200,161,4,0,2,7,hot air,gas,public/commercial,No,No,No
+485000,2550,39,32900,215,5,1,2.5,9,hot water/steam,gas,public/commercial,No,No,No
+368000,2550,38,22100,162,4,1,1,10,hot water/steam,gas,septic,No,No,Yes
+471000,1659,36,25400,261,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+588000,1862,16,36400,177,4,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+544000,1862,22,48000,189,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+282000,2307,59,29900,139,2,1,1,7,hot air,gas,public/commercial,No,No,No
+673000,2226,20,67300,197,3,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+349000,3359,37,35700,196,4,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+234000,243,16,1600,138,2,1,2.5,4,hot air,gas,public/commercial,No,No,Yes
+493000,850,1,32000,226,3,0,2.5,9,hot air,gas,public/commercial,No,Yes,No
+357000,1255,12,10400,125,2,0,2,5,hot air,gas,public/commercial,No,No,No
+407000,1012,13,9000,129,3,0,2,8,hot air,gas,public/commercial,No,No,No
+903000,5666,2,74800,318,4,1,4,12,hot air,gas,public/commercial,No,Yes,Yes
+592000,2064,1,74800,250,4,1,3,10,hot air,gas,public/commercial,No,Yes,Yes
+251000,607,14,5400,96,2,0,1.5,3,hot water/steam,gas,public/commercial,No,No,Yes
+291000,1174,14,9700,100,2,0,1,7,hot air,gas,public/commercial,No,No,Yes
+423000,1012,12,15200,141,3,0,2,8,hot air,gas,public/commercial,No,No,No
+416000,20235,17,24100,94,2,0,1,5,electric,electric,septic,No,No,No
+240000,243,17,1600,138,3,1,1.5,5,hot water/steam,gas,public/commercial,No,No,No
+245000,2064,34,16600,85,3,0,1,4,hot air,gas,septic,No,No,No
+273000,283,17,1800,138,3,1,1.5,7,hot water/steam,gas,public/commercial,No,No,Yes
+633000,5059,16,11900,145,3,1,2,7,electric,electric,septic,No,No,No
+596000,162,0,74800,246,4,1,2.5,11,hot air,gas,public/commercial,No,Yes,No
+332000,1578,26,9800,209,4,0,1,10,hot air,gas,septic,No,No,No
+287000,2954,85,16400,136,3,0,1,6,hot air,oil,septic,No,No,No
+409000,931,11,7700,137,3,1,2.5,8,hot air,gas,public/commercial,No,No,No
+426000,2024,8,4000,177,3,0,1.5,6,hot air,gas,public/commercial,No,No,No
+562000,405,8,13000,191,4,0,2.5,6,hot air,gas,public/commercial,No,No,Yes
+268000,283,16,1800,138,2,1,2.5,4,hot air,gas,public/commercial,No,No,No
+500000,971,14,8600,169,3,0,2,9,hot air,gas,public/commercial,No,No,No
+483000,40,12,17900,151,3,1,2.5,5,hot air,gas,public/commercial,No,No,No
+605000,405,14,21000,197,4,0,2.5,8,hot air,gas,public/commercial,No,No,Yes
+782000,1093,1,74800,280,5,1,3.5,12,hot air,gas,public/commercial,No,Yes,No
+337000,1821,35,9000,167,4,0,1,10,hot air,gas,septic,No,No,No
+263000,283,16,1800,138,2,1,2.5,3,hot air,electric,public/commercial,No,No,Yes
+583000,7082,14,20600,121,3,0,2,4,electric,electric,septic,No,No,No
+310000,283,16,1800,138,3,1,1.5,5,hot air,gas,public/commercial,No,No,No
+389000,81,15,9700,174,3,0,2,6,hot air,gas,public/commercial,No,No,No
+368000,971,13,8000,145,3,0,2,5,hot air,gas,public/commercial,No,No,No
+272000,1133,70,9800,116,3,0,1.5,4,hot water/steam,gas,public/commercial,No,No,No
+278000,445,16,2900,138,2,0,2.5,4,hot air,gas,public/commercial,No,No,No
+631000,2226,12,19300,212,4,1,2.5,7,hot air,gas,public/commercial,No,No,No
+401000,1619,38,8000,223,3,1,1.5,6,hot air,gas,septic,No,No,Yes
+483000,202,15,16800,178,4,1,2.5,10,hot air,gas,public/commercial,No,No,No
+446000,1214,12,10800,130,3,2,1.5,4,hot air,gas,public/commercial,No,No,No
+341000,1497,38,9300,103,4,0,1,9,hot air,gas,septic,No,No,Yes
+374000,1740,14,13500,167,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+475000,526,15,13700,141,3,0,1.5,6,hot air,gas,public/commercial,No,No,No
+213000,364,95,3200,153,3,0,1,5,hot water/steam,gas,public/commercial,No,No,No
+487000,2024,5,4000,174,3,1,2.5,7,hot air,gas,public/commercial,No,No,No
+309000,769,15,6800,121,3,0,1.5,4,hot air,gas,public/commercial,No,No,No
+417000,3845,15,11200,154,3,0,2,7,electric,electric,septic,No,No,No
+223000,1416,33,8500,98,3,0,1,7,hot water/steam,oil,septic,No,No,No
+456000,2064,22,15100,215,3,0,1.5,10,hot air,gas,septic,No,No,No
+465000,1943,15,19200,193,3,0,2.5,5,hot air,gas,septic,No,No,Yes
+314000,1862,20,7800,112,2,0,1,6,electric,electric,septic,No,No,No
+279000,1943,33,12000,164,3,1,1.5,7,hot air,oil,septic,No,No,No
+301000,81,17,20100,89,3,0,1,4,hot air,gas,septic,No,No,No
+289000,688,22,15800,92,2,0,2,4,hot air,gas,public/commercial,No,No,No
+313000,688,19,15200,141,3,0,1.5,7,electric,electric,public/commercial,No,No,No
+446000,2064,13,26900,123,3,0,2,7,hot air,gas,public/commercial,No,No,Yes
+781000,2792,1,83500,253,3,1,2,9,hot air,gas,septic,No,Yes,Yes
+568000,2469,11,41700,167,3,1,2.5,6,hot air,gas,public/commercial,No,No,No
+534000,1538,4,53900,159,3,1,2.5,5,hot air,gas,public/commercial,No,No,No
+734000,1619,1,233000,280,4,1,2.5,11,hot air,gas,public/commercial,No,Yes,Yes
+254000,1700,71,18600,126,3,0,1,5,hot air,oil,septic,No,No,No
+393000,1902,20,20000,112,3,0,1.5,7,electric,electric,septic,No,No,Yes
+633000,1902,3,53900,173,3,1,2.5,6,hot air,gas,public/commercial,No,No,Yes
+544000,2671,15,31200,214,4,1,2.5,11,hot air,gas,septic,No,No,Yes
+495000,1983,1,15000,203,3,1,2.5,10,hot air,gas,septic,No,Yes,Yes
+631000,1295,116,16400,155,3,0,2,7,hot air,gas,public/commercial,No,No,No
+727000,1781,1,108900,252,4,1,2.5,12,hot air,gas,public/commercial,No,Yes,Yes
+271000,648,20,15700,85,2,0,1.5,3,electric,electric,public/commercial,No,No,No
+391000,1376,21,27000,140,3,0,1.5,4,electric,electric,public/commercial,No,No,No
+359000,1862,28,24500,115,3,1,1,6,electric,electric,public/commercial,No,No,No
+456000,1457,106,35900,171,4,1,1.5,6,hot air,gas,public/commercial,No,No,No
+808000,648,176,46200,417,6,1,4,12,hot water/steam,gas,public/commercial,No,No,No
+446000,17038,38,70400,205,3,2,2,8,hot water/steam,oil,septic,No,No,No
+284000,648,19,15100,110,3,0,2,7,hot air,gas,public/commercial,No,No,No
+495000,1983,1,15000,203,3,1,2.5,8,hot air,gas,septic,No,Yes,Yes
+631000,1295,116,16400,155,3,0,2,5,hot air,gas,public/commercial,No,No,No
+727000,1781,1,108900,252,4,1,2.5,11,hot air,gas,public/commercial,No,Yes,Yes
+271000,648,20,15700,85,2,0,1.5,5,electric,electric,public/commercial,No,No,No
+391000,1376,21,27000,140,3,0,1.5,4,electric,electric,public/commercial,No,No,No
+359000,1862,28,24500,115,3,1,1,4,electric,electric,public/commercial,No,No,No
+314000,1295,15,4650,89,3,0,1,4,electric,electric,public/commercial,No,No,No
+456000,1457,106,35900,171,4,1,1.5,8,hot air,gas,public/commercial,No,No,No
+528000,3521,12,56300,171,4,1,1.5,6,hot air,gas,public/commercial,No,No,Yes
+485000,1376,42,27100,168,4,0,1.5,6,hot water/steam,gas,septic,No,No,No
+474000,688,9,20400,136,3,1,2,8,hot air,gas,public/commercial,No,No,Yes
+329000,283,27,16800,120,2,1,1.5,7,hot air,gas,public/commercial,No,No,Yes
+475000,2145,38,29900,215,5,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+495000,1740,40,26200,155,3,1,2,4,hot water/steam,gas,public/commercial,No,No,Yes
+318000,243,21,16400,138,3,0,1.5,8,hot air,gas,public/commercial,No,No,No
+607000,1052,7,9100,231,4,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+637000,1862,4,60500,231,4,1,2.5,10,hot air,gas,public/commercial,No,No,Yes
+410000,1457,121,33000,251,6,1,1,12,hot air,oil,septic,No,No,No
+460000,1214,28,34000,156,3,1,2.5,8,hot air,gas,public/commercial,No,No,Yes
+330000,2185,38,30200,262,5,1,2.5,10,hot water/steam,gas,public/commercial,No,No,No
+426000,1497,26,23800,183,3,0,1.5,7,hot water/steam,gas,public/commercial,No,No,No
+426000,2185,39,34700,196,4,1,1.5,9,hot air,gas,public/commercial,No,No,No
+738000,3116,9,74400,257,4,1,2.5,12,hot air,gas,public/commercial,No,No,No
+663000,2671,23,72200,203,3,1,2.5,9,hot air,gas,public/commercial,No,No,Yes
+310000,283,22,16800,138,3,0,1.5,7,electric,electric,public/commercial,No,No,No
+349000,2145,39,34700,151,3,0,1,4,hot air,gas,public/commercial,No,No,No
+598000,2185,19,30200,153,3,1,2,4,hot air,gas,public/commercial,No,No,Yes
+122000,5423,34,36700,122,2,0,1.5,3,electric,electric,septic,No,No,No
+564000,2631,19,33500,242,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+263000,526,22,18300,88,2,0,1,5,hot air,gas,public/commercial,No,No,No
+336000,1133,57,23200,104,3,0,1.5,4,hot air,oil,septic,No,No,No
+516000,3278,0,7300,213,3,1,2.5,8,hot air,gas,public/commercial,No,Yes,No
+835000,1659,5,43400,253,4,1,2.5,12,hot air,gas,public/commercial,No,No,Yes
+603000,2347,42,31400,229,4,1,2.5,8,hot water/steam,gas,public/commercial,No,No,No
+463000,1740,41,45800,226,4,2,2,7,hot water/steam,gas,public/commercial,No,No,No
+542000,1538,32,24200,215,5,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+534000,3804,37,36200,238,4,1,2.5,11,hot water/steam,gas,public/commercial,No,No,No
+358000,1578,9,20400,102,2,0,1,3,hot air,gas,public/commercial,No,No,No
+225000,971,48,16800,114,3,1,1,7,hot air,gas,public/commercial,No,No,No
+199000,2388,86,26000,182,3,0,1,6,hot air,gas,septic,No,No,No
